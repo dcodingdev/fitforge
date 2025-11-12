@@ -1,20 +1,19 @@
-FROM node:20-alpine
+FROM python:3.11-slim
 
 WORKDIR /app
 
-# Copy dependency files and install
-COPY package*.json ./
-RUN npm install
+RUN apt-get update && apt-get install -y build-essential curl
 
-# Copy all frontend code
-COPY . .
+COPY pyproject.toml poetry.lock* /app/
 
-# Build the Next.js app
-RUN npm run build
+RUN pip install --upgrade pip
+RUN pip install poetry
+RUN poetry config virtualenvs.create false
+RUN poetry install --no-root --only main
 
-# Expose Render port
-ENV PORT 3000
+COPY . /app
+
 EXPOSE $PORT
 
-# Use shell form to expand $PORT correctly
-CMD npm run start -- -p $PORT
+# Use shell form to expand $PORT
+CMD uvicorn main:app --host 0.0.0.0 --port $PORT
