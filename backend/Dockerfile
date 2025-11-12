@@ -1,24 +1,20 @@
-FROM python:3.11-slim
+FROM node:20-alpine
 
 WORKDIR /app
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y build-essential curl
+# Copy dependency files and install
+COPY package*.json ./
+RUN npm install
 
-# Copy dependency files first
-COPY pyproject.toml poetry.lock* /app/
+# Copy all frontend code
+COPY . .
 
-# Install dependencies
-RUN pip install --upgrade pip
-RUN pip install poetry
-RUN poetry config virtualenvs.create false
-RUN poetry install --no-root --only main
-
-# Copy all backend code including models
-COPY . /app
+# Build the Next.js app
+RUN npm run build
 
 # Expose Render port
+ENV PORT 3000
 EXPOSE $PORT
 
-# Start Uvicorn using Render's dynamic port
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "$PORT"]
+# Use shell form to expand $PORT correctly
+CMD npm run start -- -p $PORT
