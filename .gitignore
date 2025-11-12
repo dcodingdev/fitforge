@@ -1,0 +1,27 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.env
+*.sqlite3
+
+# Machine Learning artifacts
+*.pkl
+*.db
+
+# Logs / temp files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Prevent dropdowns from clipping inside cards */
+form, .card, .container, main {
+  overflow: visible !important;
+}

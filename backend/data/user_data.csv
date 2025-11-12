@@ -1,0 +1,1001 @@
+user_id,age,gender,height_cm,weight_kg,fitness_level,goal,workout_frequency,preferred_type,equipment_access,preferred_bodypart,time_per_session
+user_1,47,Other,193,53,Beginner,Improve flexibility,3,HIIT High Intensity Interval Training,"Dumbbell, Machine",Full body,28
+user_2,28,Female,167,63,Intermediate,Prepare for event,3,Powerlifting,"Home gym, Cable",Biceps,74
+user_3,28,Female,177,74,Intermediate,Injury recovery,1,Cardio running,"Minimal equipment, Home gym, Cable",Quads,68
+user_4,44,Male,168,68,Expert,Gain mass,2,Olympic weightlifting,"Minimal equipment, Full gym, Barbell",Chest,25
+user_5,51,Other,170,66,Expert,Improve flexibility,4,Circuit training,"Minimal equipment, Bodyweight, Barbell",Upper body,56
+user_6,30,Female,177,55,Expert,Tone body,5,Calisthenics,"Outdoor park, Minimal equipment",Calves,23
+user_7,41,Female,185,91,Expert,Injury recovery,4,Swimming,"Kettlebells, Outdoor park, Machine",Triceps,59
+user_8,28,Other,175,76,Intermediate,Build muscle,4,Dance,"Barbell, Dumbbell, Outdoor park",Shoulders,72
+user_9,40,Female,190,62,Beginner,Injury recovery,2,Olympic weightlifting,"Minimal equipment, Cable",Hamstrings,44
+user_10,43,Male,175,72,Beginner,Tone body,5,Powerlifting,Body Only,Lower body,83
+user_11,36,Male,169,92,Intermediate,Gain mass,4,Functional training,"Full gym, Machine",Legs,58
+user_12,18,Male,158,90,Intermediate,Improve strength,5,Bodyweight training,Machine,Back,26
+user_13,35,Other,178,77,Intermediate,Tone body,4,HIIT High Intensity Interval Training,"Dumbbell, Minimal equipment",Upper body,43
+user_14,26,Male,173,90,Intermediate,Build muscle,2,Functional training,"Home gym, Outdoor park, Barbell",Arms,26
+user_15,26,Male,195,59,Expert,Weight loss,3,Cardio running,"Dumbbell, Barbell, Bodyweight",Upper body,31
+user_16,28,Female,198,50,Beginner,General health,3,HIIT High Intensity Interval Training,Body Only,Biceps,82
+user_17,54,Female,155,77,Expert,Injury recovery,4,Powerlifting,"Dumbbell, Outdoor park, Kettlebells",Calves,51
+user_18,46,Female,181,70,Expert,Improve strength,2,Powerlifting,Home gym,Upper body,79
+user_19,24,Male,168,92,Intermediate,Improve cardio,1,Yoga,"Cable, Outdoor park, Body Only",Arms,55
+user_20,18,Male,198,94,Expert,Lose fat,5,Cardio rowing,"Minimal equipment, Kettlebells, Dumbbell",Abs,50
+user_21,19,Female,180,71,Expert,Gain mass,4,Martial arts,Outdoor park,Hamstrings,85
+user_22,28,Female,164,78,Expert,Rehabilitation,3,Olympic weightlifting,"Body Only, Barbell, Home gym",Triceps,62
+user_23,18,Other,169,57,Beginner,Weight loss,3,HIIT High Intensity Interval Training,"None, Bodyweight, Cable",Lower body,84
+user_24,40,Other,174,84,Intermediate,Prepare for event,3,Cardio running,Outdoor park,Full body,35
+user_25,41,Male,196,87,Beginner,Lose fat,5,Swimming,Bodyweight,Abs,54
+user_26,54,Male,177,69,Expert,Improve cardio,2,Martial arts,"None, Bands",Calves,87
+user_27,36,Male,156,95,Intermediate,Rehabilitation,5,Cardio running,"Body Only, Kettlebells, Machine",No specific focus,52
+user_28,31,Other,190,51,Intermediate,Increase endurance,3,Cardio cycling,Minimal equipment,Glutes,72
+user_29,39,Other,197,86,Expert,Build muscle,4,Cardio running,Machine,Abs,58
+user_30,49,Male,168,94,Expert,Weight loss,1,Dance,Machine,Abs,78
+user_31,19,Female,186,87,Intermediate,Sports performance,3,Zumba,"Bands, None, Bodyweight",Full body,80
+user_32,38,Other,152,85,Beginner,Weight loss,2,Calisthenics,Body Only,Glutes,41
+user_33,33,Other,160,54,Intermediate,Body recomposition,5,Dance,Kettlebells,Legs,23
+user_34,41,Male,177,69,Beginner,Improve flexibility,2,Swimming,"Bodyweight, Dumbbell, Minimal equipment",Biceps,51
+user_35,47,Other,197,58,Expert,General health,5,Circuit training,"Bodyweight, Home gym, None",Biceps,31
+user_36,53,Male,168,88,Expert,Rehabilitation,5,Circuit training,"Bodyweight, Kettlebells",Hamstrings,26
+user_37,39,Other,160,76,Expert,Increase endurance,2,Cardio cycling,Cable,Calves,51
+user_38,38,Female,181,88,Beginner,Tone body,5,Cardio cycling,Bands,Triceps,59
+user_39,23,Male,193,63,Expert,Prepare for event,2,Zumba,Cable,Upper body,73
+user_40,53,Female,167,68,Expert,Improve mobility,4,Olympic weightlifting,Dumbbell,Biceps,38
+user_41,18,Female,177,87,Intermediate,Prepare for event,2,Swimming,"Body Only, Bands, Cable",Arms,27
+user_42,58,Male,172,71,Expert,Increase endurance,1,Circuit training,"None, Machine",Arms,55
+user_43,47,Other,184,86,Intermediate,Body recomposition,2,Strength training,Bands,Glutes,48
+user_44,31,Male,155,57,Expert,Sports performance,3,Dance,"Full gym, Minimal equipment",Hamstrings,53
+user_45,51,Male,188,96,Expert,Lose fat,2,CrossFit,Machine,No specific focus,54
+user_46,40,Female,153,86,Intermediate,Wellness,4,No preference,Cable,Upper body,33
+user_47,48,Other,156,87,Beginner,Body recomposition,1,Yoga,Machine,Forearms,20
+user_48,52,Female,199,52,Beginner,Increase endurance,4,Calisthenics,"Machine, Kettlebells, Home gym",Calves,23
+user_49,49,Male,176,71,Intermediate,Improve cardio,1,Martial arts,"Bodyweight, Barbell",Lower body,37
+user_50,29,Male,189,98,Intermediate,General health,2,Circuit training,Machine,Lower body,28
+user_51,55,Male,182,85,Intermediate,General health,4,Dance,"Cable, Body Only",Full body,82
+user_52,21,Male,159,62,Beginner,General health,2,Powerlifting,Machine,Upper body,31
+user_53,18,Other,167,57,Expert,Tone body,2,Bodyweight training,"Body Only, Bands, Minimal equipment",Upper body,51
+user_54,50,Male,196,74,Expert,Weight loss,4,Circuit training,"Kettlebells, Home gym, Bands",Legs,45
+user_55,36,Other,188,97,Beginner,Build muscle,3,Olympic weightlifting,"Kettlebells, Bands, Machine",No specific focus,72
+user_56,50,Male,162,96,Intermediate,Wellness,1,Yoga,"Outdoor park, Body Only",Lower body,40
+user_57,43,Other,150,79,Beginner,Weight loss,2,Olympic weightlifting,Body Only,Calves,37
+user_58,54,Male,174,71,Intermediate,Improve mobility,4,Zumba,"Full gym, Kettlebells, Minimal equipment",Glutes,47
+user_59,44,Male,178,69,Expert,Tone body,4,Zumba,"Full gym, Home gym",Triceps,43
+user_60,34,Female,158,88,Intermediate,Gain mass,5,Dance,"Bodyweight, Barbell, Cable",Arms,22
+user_61,30,Male,195,78,Beginner,Improve flexibility,3,Cardio rowing,"Machine, Dumbbell, Body Only",Legs,62
+user_62,42,Male,153,98,Intermediate,Improve mobility,4,CrossFit,"Minimal equipment, Kettlebells, Machine",Glutes,66
+user_63,45,Male,153,93,Expert,Wellness,3,CrossFit,None,Shoulders,32
+user_64,48,Female,194,60,Intermediate,Lose fat,2,Circuit training,Minimal equipment,Arms,43
+user_65,54,Male,191,51,Beginner,Increase endurance,3,Dance,"Dumbbell, Minimal equipment, Outdoor park",Upper body,71
+user_66,43,Male,169,52,Expert,Tone body,2,Cardio running,"Cable, Kettlebells",Calves,31
+user_67,52,Other,170,84,Expert,Prepare for event,3,Cardio cycling,Kettlebells,Arms,30
+user_68,54,Other,175,69,Intermediate,Sports performance,4,Martial arts,"Machine, Outdoor park",Hamstrings,45
+user_69,26,Male,154,86,Beginner,Sports performance,4,Functional training,Full gym,Quads,48
+user_70,23,Female,152,86,Beginner,Wellness,3,No preference,"Cable, Minimal equipment, Bodyweight",Quads,45
+user_71,44,Male,176,65,Beginner,Improve flexibility,2,Circuit training,"Full gym, Cable, Body Only",Chest,85
+user_72,50,Other,195,70,Intermediate,Improve flexibility,1,Powerlifting,"Home gym, Full gym",Biceps,66
+user_73,44,Female,159,54,Intermediate,Tone body,1,CrossFit,Bodyweight,Hamstrings,61
+user_74,31,Male,161,78,Expert,Build muscle,2,Zumba,"Barbell, Dumbbell",Lower body,48
+user_75,47,Other,171,88,Intermediate,Improve flexibility,1,Circuit training,"Barbell, Minimal equipment",Forearms,64
+user_76,33,Other,197,86,Beginner,Improve flexibility,2,CrossFit,"Cable, Dumbbell",Legs,69
+user_77,54,Female,157,79,Expert,Weight loss,5,CrossFit,Bands,Triceps,34
+user_78,46,Other,155,51,Beginner,Improve strength,2,Yoga,Bodyweight,Upper body,36
+user_79,50,Other,197,81,Expert,Improve cardio,2,Circuit training,"Bodyweight, Body Only, Kettlebells",Upper body,78
+user_80,49,Male,160,96,Intermediate,Wellness,3,Calisthenics,"None, Cable",Core,69
+user_81,30,Other,180,53,Expert,Gain mass,4,HIIT High Intensity Interval Training,"Home gym, Minimal equipment, Body Only",Chest,22
+user_82,45,Other,153,89,Beginner,Lose fat,5,Strength training,"Bands, Bodyweight",Quads,20
+user_83,55,Other,167,62,Beginner,Wellness,4,Cardio rowing,"Body Only, Machine, Kettlebells",Biceps,33
+user_84,21,Other,174,58,Expert,Weight loss,4,Powerlifting,Outdoor park,Core,81
+user_85,34,Female,188,87,Beginner,Injury recovery,3,Olympic weightlifting,"Minimal equipment, Barbell, Home gym",Lower body,20
+user_86,55,Other,159,66,Intermediate,Rehabilitation,3,Olympic weightlifting,"Barbell, Full gym",Legs,88
+user_87,57,Male,191,61,Expert,Improve strength,1,Swimming,"Outdoor park, Body Only, Minimal equipment",Legs,72
+user_88,37,Other,168,73,Beginner,Lose fat,3,No preference,"Body Only, Minimal equipment",Full body,65
+user_89,54,Other,176,97,Beginner,Improve strength,4,HIIT High Intensity Interval Training,Bodyweight,Chest,22
+user_90,23,Male,185,54,Expert,Increase endurance,2,Cardio rowing,"Machine, Full gym",Quads,61
+user_91,29,Other,177,74,Intermediate,Sports performance,3,Zumba,"Full gym, Minimal equipment",Back,43
+user_92,32,Other,165,86,Beginner,Improve strength,3,Calisthenics,"Minimal equipment, Bodyweight, Full gym",Abs,75
+user_93,41,Female,151,93,Intermediate,Injury recovery,2,No preference,"Home gym, Minimal equipment, Kettlebells",Glutes,49
+user_94,25,Male,156,63,Intermediate,Rehabilitation,5,Cardio rowing,"Home gym, Outdoor park, Cable",Biceps,44
+user_95,33,Other,167,93,Beginner,Body recomposition,1,Dance,"None, Dumbbell, Barbell",Forearms,38
+user_96,30,Female,169,71,Beginner,Rehabilitation,5,Dance,"Outdoor park, Body Only, None",Chest,50
+user_97,32,Other,151,54,Intermediate,Injury recovery,4,Martial arts,"Barbell, Outdoor park, Kettlebells",No specific focus,65
+user_98,46,Female,194,53,Beginner,Sports performance,4,Zumba,"Kettlebells, Dumbbell",Lower body,85
+user_99,27,Male,157,98,Expert,Improve mobility,5,HIIT High Intensity Interval Training,"Bodyweight, Bands, Outdoor park",Full body,49
+user_100,27,Male,180,51,Beginner,Improve mobility,4,HIIT High Intensity Interval Training,"Minimal equipment, Bands, Kettlebells",Calves,54
+user_101,57,Other,171,55,Intermediate,Improve flexibility,2,Functional training,"Minimal equipment, Bands, Outdoor park",Upper body,85
+user_102,56,Other,175,89,Beginner,Gain mass,1,Dance,"Full gym, Minimal equipment",Shoulders,85
+user_103,28,Other,186,93,Beginner,Build muscle,5,Yoga,"None, Machine, Bands",Triceps,32
+user_104,36,Female,154,57,Expert,Lose fat,3,Pilates,"Dumbbell, Outdoor park",Lower body,73
+user_105,27,Other,153,68,Intermediate,Prepare for event,2,Calisthenics,"Full gym, Barbell, Machine",Core,56
+user_106,42,Female,164,91,Expert,Sports performance,1,Powerlifting,"Barbell, Bands, Home gym",Glutes,22
+user_107,27,Female,152,87,Beginner,Tone body,3,Martial arts,Outdoor park,Glutes,85
+user_108,41,Other,197,72,Intermediate,Injury recovery,2,Zumba,"Machine, Bodyweight",Upper body,65
+user_109,20,Female,154,81,Expert,Lose fat,5,Cardio cycling,"Home gym, None",Chest,82
+user_110,22,Male,182,58,Expert,Sports performance,5,Cardio cycling,"None, Dumbbell",No specific focus,64
+user_111,22,Other,188,55,Intermediate,Improve flexibility,1,Cardio rowing,Home gym,No specific focus,74
+user_112,48,Other,166,91,Expert,Tone body,1,Cardio running,"Body Only, Kettlebells",Lower body,59
+user_113,53,Female,172,53,Intermediate,Sports performance,3,CrossFit,"Body Only, Minimal equipment",Triceps,74
+user_114,55,Other,152,94,Beginner,Build muscle,3,No preference,"Cable, Machine, Kettlebells",Calves,79
+user_115,51,Other,160,67,Expert,Wellness,2,Bodyweight training,"Minimal equipment, Body Only",Forearms,24
+user_116,52,Male,175,95,Beginner,Rehabilitation,1,Cardio running,"Full gym, Dumbbell",Glutes,30
+user_117,34,Male,154,63,Beginner,General health,4,Calisthenics,Outdoor park,Calves,43
+user_118,33,Female,185,51,Expert,Improve flexibility,5,Martial arts,"Full gym, Bands",Full body,21
+user_119,50,Male,197,67,Intermediate,Rehabilitation,2,Dance,"Full gym, Dumbbell, Barbell",Chest,65
+user_120,41,Male,167,76,Beginner,Improve strength,1,Zumba,"Kettlebells, Minimal equipment, Barbell",Upper body,70
+user_121,49,Male,155,81,Expert,Gain mass,4,Circuit training,"Kettlebells, Full gym",Legs,64
+user_122,45,Other,174,60,Intermediate,Improve mobility,3,Cardio rowing,Kettlebells,Calves,86
+user_123,18,Male,189,91,Intermediate,Tone body,2,Functional training,Cable,Quads,75
+user_124,55,Female,181,65,Beginner,Injury recovery,2,Cardio cycling,"Home gym, Outdoor park",Upper body,55
+user_125,48,Male,182,50,Intermediate,Improve flexibility,1,Functional training,Barbell,Upper body,55
+user_126,59,Other,194,74,Expert,Lose fat,2,Functional training,None,Glutes,39
+user_127,57,Other,159,78,Intermediate,Rehabilitation,4,Zumba,"Body Only, Kettlebells",Core,73
+user_128,18,Other,158,92,Intermediate,Lose fat,1,Dance,Kettlebells,Chest,42
+user_129,47,Female,179,92,Expert,Lose fat,1,Dance,"Cable, Bodyweight",Upper body,41
+user_130,51,Male,178,64,Intermediate,Injury recovery,3,Strength training,"Bands, Home gym",Upper body,27
+user_131,24,Male,161,79,Expert,Tone body,4,Powerlifting,Dumbbell,Triceps,67
+user_132,55,Other,152,67,Expert,Prepare for event,3,Martial arts,"Barbell, Cable",No specific focus,40
+user_133,19,Other,173,65,Beginner,Improve mobility,2,Powerlifting,"Body Only, Bands, Kettlebells",Calves,50
+user_134,55,Male,168,60,Intermediate,Improve strength,2,Strength training,"Full gym, Cable, Outdoor park",Core,84
+user_135,39,Male,193,58,Beginner,Improve flexibility,5,Powerlifting,Body Only,Quads,57
+user_136,49,Female,179,99,Expert,Weight loss,4,Functional training,"Full gym, Home gym, Cable",Abs,71
+user_137,28,Male,160,86,Intermediate,Build muscle,1,Powerlifting,"Cable, Bodyweight, None",No specific focus,33
+user_138,39,Male,168,61,Beginner,Injury recovery,5,CrossFit,Bands,Quads,68
+user_139,26,Other,169,93,Beginner,General health,5,Powerlifting,"Home gym, Dumbbell",Upper body,65
+user_140,32,Male,163,50,Intermediate,Body recomposition,5,Cardio rowing,None,Biceps,79
+user_141,43,Other,184,57,Intermediate,Rehabilitation,1,Cardio running,Home gym,Abs,44
+user_142,29,Other,197,61,Intermediate,Body recomposition,1,HIIT High Intensity Interval Training,Outdoor park,Upper body,71
+user_143,36,Male,153,82,Expert,Improve mobility,4,Cardio running,"Full gym, None",Lower body,43
+user_144,38,Male,157,78,Expert,Prepare for event,1,Martial arts,Bands,Biceps,22
+user_145,54,Male,194,61,Intermediate,Injury recovery,4,Bodyweight training,Machine,Legs,86
+user_146,53,Other,152,50,Expert,Injury recovery,4,Dance,"Barbell, Minimal equipment, Machine",Chest,25
+user_147,22,Other,154,92,Intermediate,Improve flexibility,1,Cardio cycling,Dumbbell,Forearms,36
+user_148,18,Female,191,98,Beginner,Improve mobility,3,Cardio running,"Machine, None",Legs,65
+user_149,42,Female,183,93,Expert,Prepare for event,2,Strength training,Cable,Glutes,45
+user_150,42,Other,184,83,Beginner,General health,3,Olympic weightlifting,Barbell,Hamstrings,26
+user_151,59,Other,191,56,Intermediate,Body recomposition,2,Dance,"Cable, Barbell",Lower body,44
+user_152,54,Other,198,68,Beginner,Body recomposition,5,HIIT High Intensity Interval Training,"Full gym, Dumbbell",Shoulders,63
+user_153,24,Male,191,79,Intermediate,Body recomposition,5,Martial arts,"Barbell, Body Only",Abs,84
+user_154,39,Other,152,73,Beginner,Improve strength,2,Functional training,"Machine, Dumbbell",No specific focus,41
+user_155,53,Other,153,82,Expert,Improve mobility,3,Dance,Machine,Triceps,89
+user_156,36,Male,152,78,Intermediate,Improve cardio,3,CrossFit,Minimal equipment,Chest,32
+user_157,58,Other,180,97,Expert,Sports performance,5,Yoga,Minimal equipment,Full body,63
+user_158,27,Female,180,52,Expert,Prepare for event,3,Calisthenics,"Cable, Bands",Legs,67
+user_159,58,Other,185,72,Intermediate,Rehabilitation,4,Bodyweight training,Minimal equipment,Triceps,78
+user_160,45,Female,177,53,Expert,Body recomposition,2,Olympic weightlifting,"Kettlebells, Minimal equipment, Bands",Quads,70
+user_161,26,Male,178,62,Intermediate,Injury recovery,1,Martial arts,"Barbell, Outdoor park, Home gym",Shoulders,40
+user_162,55,Male,150,72,Intermediate,Weight loss,5,Martial arts,Bands,Triceps,64
+user_163,21,Male,162,84,Intermediate,General health,4,Cardio running,"Machine, Home gym, None",Lower body,89
+user_164,20,Other,151,72,Expert,Gain mass,5,Cardio rowing,"Outdoor park, Dumbbell, None",Quads,40
+user_165,39,Female,180,54,Intermediate,Injury recovery,4,Calisthenics,Kettlebells,Forearms,77
+user_166,57,Other,163,72,Beginner,Improve cardio,1,Dance,None,Back,65
+user_167,58,Female,153,86,Expert,Build muscle,3,CrossFit,"Body Only, Outdoor park, Kettlebells",Abs,20
+user_168,56,Female,181,55,Intermediate,Improve strength,3,Cardio running,"Full gym, Dumbbell",Shoulders,76
+user_169,47,Female,178,62,Beginner,Improve strength,5,No preference,"Machine, Outdoor park, Dumbbell",Abs,44
+user_170,34,Female,187,76,Beginner,Improve mobility,2,Yoga,Dumbbell,Glutes,39
+user_171,50,Other,193,90,Expert,Lose fat,4,Martial arts,Barbell,Biceps,20
+user_172,51,Male,156,53,Intermediate,Prepare for event,1,Powerlifting,Home gym,Shoulders,79
+user_173,24,Other,155,87,Expert,Build muscle,4,Dance,"Dumbbell, None",Chest,88
+user_174,22,Male,157,68,Intermediate,Improve flexibility,5,Dance,"Home gym, Dumbbell",Hamstrings,28
+user_175,45,Female,156,80,Expert,General health,1,Cardio running,"Home gym, Barbell",Full body,68
+user_176,18,Female,190,77,Expert,Build muscle,4,Pilates,Bodyweight,Abs,48
+user_177,19,Male,151,67,Beginner,General health,2,Cardio rowing,"Kettlebells, Body Only",Triceps,20
+user_178,34,Other,169,64,Expert,Tone body,3,Olympic weightlifting,Bodyweight,Calves,44
+user_179,43,Male,180,73,Beginner,Prepare for event,4,Olympic weightlifting,"Kettlebells, Bodyweight, Barbell",Glutes,58
+user_180,44,Female,191,99,Intermediate,Injury recovery,2,Olympic weightlifting,"Home gym, Cable",Core,54
+user_181,46,Other,152,52,Intermediate,Tone body,5,HIIT High Intensity Interval Training,"Bodyweight, Minimal equipment",No specific focus,64
+user_182,28,Male,195,96,Expert,Lose fat,4,Cardio running,"Kettlebells, Outdoor park, Dumbbell",Back,43
+user_183,45,Other,190,56,Beginner,Improve mobility,4,Pilates,"Barbell, Cable, Full gym",Shoulders,32
+user_184,49,Male,170,98,Beginner,Wellness,5,Zumba,"Bodyweight, Full gym",Back,81
+user_185,23,Female,175,62,Intermediate,Gain mass,5,Powerlifting,Cable,Abs,35
+user_186,49,Other,181,76,Intermediate,Body recomposition,5,Powerlifting,"Bands, Outdoor park, Machine",No specific focus,60
+user_187,21,Other,161,54,Expert,Sports performance,1,Zumba,Dumbbell,Hamstrings,22
+user_188,54,Male,194,57,Expert,Lose fat,2,CrossFit,"Barbell, Cable, None",Full body,54
+user_189,30,Female,165,88,Expert,Rehabilitation,2,Pilates,"Home gym, Cable",Shoulders,27
+user_190,49,Other,180,63,Expert,Injury recovery,1,Circuit training,Minimal equipment,Calves,71
+user_191,52,Other,185,56,Intermediate,Build muscle,5,Pilates,"Outdoor park, Dumbbell",Back,46
+user_192,35,Other,159,70,Expert,Rehabilitation,2,Swimming,"Full gym, Body Only, Barbell",Triceps,23
+user_193,55,Female,169,61,Expert,Gain mass,4,Pilates,"Full gym, Cable",Legs,74
+user_194,19,Female,161,97,Beginner,Wellness,3,Bodyweight training,"Kettlebells, None",Upper body,75
+user_195,45,Male,162,56,Beginner,Body recomposition,5,Dance,"Body Only, Bodyweight",Triceps,20
+user_196,32,Male,168,71,Intermediate,Weight loss,2,Cardio running,Body Only,Legs,72
+user_197,41,Female,165,98,Beginner,Prepare for event,3,Zumba,"Kettlebells, Home gym, Barbell",Biceps,20
+user_198,20,Other,151,64,Expert,Tone body,4,Functional training,"Dumbbell, None",Hamstrings,43
+user_199,36,Other,168,92,Expert,Improve flexibility,2,Calisthenics,"Body Only, Outdoor park, Minimal equipment",Chest,52
+user_200,41,Male,180,82,Intermediate,Tone body,3,Swimming,"None, Body Only, Full gym",No specific focus,69
+user_201,55,Other,161,85,Intermediate,Weight loss,4,Martial arts,Dumbbell,Lower body,81
+user_202,20,Female,191,82,Intermediate,Prepare for event,5,Functional training,Kettlebells,Triceps,49
+user_203,43,Female,185,75,Beginner,Improve mobility,4,Cardio cycling,"None, Kettlebells",Triceps,44
+user_204,40,Other,153,86,Expert,Improve flexibility,1,Cardio cycling,"None, Barbell, Minimal equipment",Glutes,43
+user_205,24,Other,151,71,Intermediate,Tone body,2,Calisthenics,Dumbbell,Shoulders,77
+user_206,50,Other,171,79,Expert,Weight loss,4,Cardio cycling,"None, Body Only",No specific focus,54
+user_207,48,Male,167,54,Beginner,Sports performance,2,Yoga,"Bands, Home gym",Hamstrings,63
+user_208,22,Other,156,56,Intermediate,Improve mobility,1,Bodyweight training,Minimal equipment,Triceps,83
+user_209,26,Other,188,65,Beginner,General health,1,Bodyweight training,"Machine, Home gym, Bodyweight",Upper body,52
+user_210,57,Male,196,90,Intermediate,Rehabilitation,4,CrossFit,"Dumbbell, Outdoor park, Bands",No specific focus,41
+user_211,42,Female,157,78,Intermediate,Injury recovery,3,Strength training,"Barbell, Body Only",Chest,45
+user_212,21,Other,197,93,Expert,Prepare for event,1,Circuit training,"Kettlebells, Dumbbell",Forearms,88
+user_213,19,Female,197,90,Intermediate,General health,1,Bodyweight training,Home gym,Lower body,62
+user_214,40,Female,158,63,Beginner,Improve cardio,5,Cardio rowing,"Dumbbell, Cable",Abs,22
+user_215,23,Other,191,89,Intermediate,Increase endurance,2,Cardio cycling,"Dumbbell, Kettlebells, Barbell",Shoulders,38
+user_216,38,Male,158,81,Intermediate,Gain mass,4,Dance,"Bands, Home gym",Triceps,52
+user_217,22,Male,188,82,Intermediate,Lose fat,3,Strength training,Minimal equipment,Chest,85
+user_218,53,Male,190,69,Intermediate,Weight loss,3,Functional training,"Full gym, None",Triceps,31
+user_219,22,Female,179,61,Intermediate,Prepare for event,5,Yoga,"Machine, Bands, Dumbbell",Abs,69
+user_220,18,Male,192,95,Beginner,Body recomposition,2,HIIT High Intensity Interval Training,Barbell,Forearms,24
+user_221,50,Other,182,84,Expert,Improve strength,5,CrossFit,"Bodyweight, Body Only",Abs,86
+user_222,57,Other,197,57,Beginner,General health,2,Cardio running,Cable,Glutes,68
+user_223,22,Male,166,56,Intermediate,Sports performance,2,Swimming,Home gym,Calves,32
+user_224,55,Female,198,98,Intermediate,Rehabilitation,4,Cardio running,"Minimal equipment, Kettlebells, Full gym",Quads,83
+user_225,59,Female,192,89,Expert,Increase endurance,2,CrossFit,"Home gym, Full gym, Dumbbell",Lower body,22
+user_226,54,Female,160,89,Expert,Increase endurance,2,CrossFit,Minimal equipment,Biceps,23
+user_227,38,Female,157,64,Intermediate,General health,3,Zumba,"Barbell, Full gym",Upper body,20
+user_228,24,Other,165,51,Intermediate,Lose fat,2,Bodyweight training,Full gym,Triceps,72
+user_229,48,Male,166,90,Beginner,Weight loss,1,Circuit training,"Dumbbell, Bodyweight, Machine",Forearms,57
+user_230,37,Female,188,59,Beginner,Improve cardio,2,Circuit training,"Barbell, Bands, Full gym",Glutes,52
+user_231,41,Male,193,50,Beginner,Lose fat,4,Strength training,Minimal equipment,Back,44
+user_232,34,Female,165,54,Intermediate,Improve mobility,1,Swimming,"Body Only, Barbell, Minimal equipment",Shoulders,40
+user_233,25,Female,151,96,Beginner,Improve strength,3,Strength training,"Bodyweight, Body Only",Upper body,33
+user_234,32,Other,159,78,Intermediate,Build muscle,3,Cardio cycling,"Minimal equipment, Barbell",Hamstrings,34
+user_235,53,Male,177,83,Beginner,Sports performance,4,Cardio cycling,Machine,Shoulders,29
+user_236,36,Male,164,91,Expert,Improve strength,3,HIIT High Intensity Interval Training,"Bands, Home gym, Dumbbell",Chest,33
+user_237,31,Female,184,54,Intermediate,Improve cardio,2,Strength training,"None, Full gym",Arms,63
+user_238,54,Female,170,80,Beginner,Sports performance,4,Cardio running,"Outdoor park, Cable, Minimal equipment",Triceps,51
+user_239,49,Other,177,87,Beginner,Build muscle,5,Martial arts,"Bodyweight, Dumbbell",Upper body,27
+user_240,28,Male,172,57,Expert,Wellness,3,HIIT High Intensity Interval Training,"Cable, Machine",Arms,70
+user_241,22,Other,198,73,Expert,General health,5,No preference,"Full gym, Home gym, Body Only",No specific focus,44
+user_242,54,Male,169,73,Beginner,Rehabilitation,5,Cardio rowing,"Kettlebells, Dumbbell, Outdoor park",Back,21
+user_243,45,Male,152,54,Expert,General health,4,Zumba,"Outdoor park, Full gym",Lower body,35
+user_244,30,Female,182,57,Beginner,General health,5,CrossFit,Body Only,Glutes,80
+user_245,42,Other,185,68,Beginner,Injury recovery,4,Cardio running,Barbell,Arms,27
+user_246,39,Female,172,64,Intermediate,Wellness,5,Martial arts,"Bands, Dumbbell",Hamstrings,47
+user_247,21,Female,188,99,Intermediate,General health,3,Cardio running,"Machine, Full gym",Calves,62
+user_248,50,Male,192,79,Beginner,Rehabilitation,2,HIIT High Intensity Interval Training,"Dumbbell, Barbell, None",Lower body,33
+user_249,42,Other,167,55,Beginner,Weight loss,2,Swimming,"Minimal equipment, Bands, None",Glutes,40
+user_250,46,Female,180,65,Intermediate,Injury recovery,5,Powerlifting,"Body Only, Full gym",Forearms,82
+user_251,29,Female,196,82,Intermediate,Prepare for event,4,Bodyweight training,Machine,Full body,80
+user_252,56,Other,194,51,Intermediate,Improve cardio,4,Bodyweight training,"Home gym, Outdoor park, Kettlebells",Upper body,63
+user_253,23,Other,193,63,Expert,Rehabilitation,5,Cardio running,"Full gym, Home gym",Biceps,68
+user_254,56,Male,155,64,Beginner,Gain mass,3,Powerlifting,"Bodyweight, Home gym, Bands",Glutes,24
+user_255,18,Male,178,77,Expert,Improve strength,3,No preference,"Machine, Minimal equipment",Calves,55
+user_256,51,Male,177,94,Beginner,Weight loss,5,Martial arts,"Outdoor park, Bands",Lower body,81
+user_257,54,Female,163,77,Beginner,Prepare for event,2,Strength training,"Dumbbell, Bands",Glutes,61
+user_258,57,Male,166,82,Intermediate,Rehabilitation,1,Strength training,Cable,Core,60
+user_259,25,Other,182,65,Intermediate,Injury recovery,3,HIIT High Intensity Interval Training,"Machine, None, Bands",Calves,85
+user_260,22,Male,186,82,Beginner,Injury recovery,4,Cardio running,Cable,Shoulders,50
+user_261,52,Female,178,62,Intermediate,Rehabilitation,2,Olympic weightlifting,"None, Barbell",Chest,49
+user_262,57,Female,198,65,Beginner,Body recomposition,2,Zumba,"Kettlebells, Minimal equipment, Full gym",Biceps,59
+user_263,37,Male,175,97,Beginner,Lose fat,2,Cardio cycling,"Bands, Full gym, Body Only",Shoulders,50
+user_264,30,Male,174,97,Expert,Injury recovery,5,Olympic weightlifting,"Barbell, Minimal equipment, Body Only",Calves,87
+user_265,49,Female,151,72,Intermediate,Lose fat,4,Martial arts,"Cable, Bodyweight, Kettlebells",Upper body,48
+user_266,24,Male,152,70,Intermediate,Gain mass,3,Pilates,Bodyweight,Glutes,64
+user_267,36,Male,151,77,Expert,Tone body,2,Zumba,"Bodyweight, Outdoor park, Minimal equipment",Shoulders,85
+user_268,37,Other,169,67,Beginner,Sports performance,5,Olympic weightlifting,Cable,Upper body,29
+user_269,52,Other,176,92,Beginner,Weight loss,4,No preference,"Bodyweight, Home gym",Core,88
+user_270,53,Male,176,63,Intermediate,Increase endurance,1,Calisthenics,"Bodyweight, Barbell, Outdoor park",Biceps,44
+user_271,35,Other,171,84,Intermediate,Increase endurance,3,Cardio rowing,"Cable, Dumbbell",Full body,84
+user_272,34,Male,166,54,Beginner,Wellness,1,Bodyweight training,Minimal equipment,Full body,29
+user_273,41,Female,168,64,Beginner,Improve flexibility,3,Yoga,"Bands, Minimal equipment, Outdoor park",Arms,52
+user_274,22,Female,150,81,Intermediate,Rehabilitation,3,Calisthenics,"Home gym, Body Only",Quads,73
+user_275,58,Other,181,65,Intermediate,Improve strength,4,Calisthenics,Cable,Lower body,77
+user_276,34,Other,161,68,Expert,Injury recovery,1,Pilates,Machine,Arms,88
+user_277,43,Male,153,64,Beginner,Sports performance,3,Pilates,"Cable, Body Only, Bands",Quads,85
+user_278,48,Female,165,62,Intermediate,Rehabilitation,1,Cardio cycling,"Machine, Barbell",Lower body,46
+user_279,19,Other,197,92,Expert,Build muscle,5,Strength training,"Bands, Machine",Forearms,82
+user_280,30,Other,190,68,Intermediate,Gain mass,1,Dance,"Bodyweight, Kettlebells",Back,73
+user_281,57,Male,196,84,Intermediate,Rehabilitation,3,Zumba,Cable,Forearms,37
+user_282,26,Male,183,63,Expert,Injury recovery,1,CrossFit,"Machine, Dumbbell, None",No specific focus,51
+user_283,26,Female,167,70,Beginner,Tone body,4,Swimming,"Dumbbell, Full gym, Cable",Upper body,44
+user_284,59,Other,177,82,Expert,Injury recovery,2,Calisthenics,"Machine, Outdoor park",Quads,20
+user_285,58,Female,160,80,Expert,Injury recovery,5,Cardio rowing,Minimal equipment,Calves,44
+user_286,42,Male,151,89,Expert,Injury recovery,5,Olympic weightlifting,"Body Only, Cable, None",Triceps,59
+user_287,30,Other,172,91,Beginner,Improve flexibility,3,Cardio cycling,"Full gym, Bands, Bodyweight",Forearms,41
+user_288,42,Other,172,73,Expert,Gain mass,1,Circuit training,"Barbell, Home gym",Back,51
+user_289,24,Male,152,55,Intermediate,Gain mass,4,Circuit training,Bands,Glutes,29
+user_290,22,Female,173,81,Beginner,Improve cardio,2,Cardio cycling,"None, Minimal equipment, Home gym",Upper body,56
+user_291,39,Other,194,77,Beginner,Improve mobility,3,Swimming,"Bands, None, Barbell",Arms,20
+user_292,31,Female,199,97,Expert,Improve strength,1,Martial arts,"Bodyweight, Home gym",Legs,51
+user_293,19,Female,198,55,Intermediate,Improve strength,5,Calisthenics,"Machine, Dumbbell",Full body,25
+user_294,33,Other,194,81,Beginner,Injury recovery,4,Martial arts,Cable,Hamstrings,78
+user_295,20,Other,184,85,Intermediate,Weight loss,2,Cardio running,"Barbell, Outdoor park, Minimal equipment",Biceps,86
+user_296,45,Other,185,98,Beginner,Improve flexibility,1,Powerlifting,"Home gym, Body Only, Bands",Upper body,70
+user_297,54,Other,184,62,Intermediate,Injury recovery,3,Olympic weightlifting,Machine,Legs,24
+user_298,53,Male,178,75,Intermediate,Improve strength,2,Powerlifting,"Kettlebells, Full gym, Cable",Biceps,24
+user_299,24,Female,152,96,Intermediate,Improve strength,1,Martial arts,"None, Kettlebells",Triceps,74
+user_300,42,Female,185,82,Expert,Gain mass,5,Functional training,Dumbbell,Abs,39
+user_301,55,Male,194,68,Expert,Prepare for event,3,Martial arts,"Bands, Bodyweight",Legs,60
+user_302,27,Other,184,86,Beginner,Lose fat,2,Cardio rowing,Minimal equipment,Chest,20
+user_303,44,Male,166,89,Intermediate,Lose fat,2,Bodyweight training,"Machine, Bodyweight",Biceps,34
+user_304,28,Other,184,76,Expert,Gain mass,3,Dance,"Outdoor park, Home gym, Dumbbell",Hamstrings,82
+user_305,42,Female,190,81,Intermediate,Body recomposition,4,Swimming,"Kettlebells, Barbell",Upper body,26
+user_306,36,Other,186,83,Intermediate,Improve strength,2,Calisthenics,"Bodyweight, Body Only",Legs,49
+user_307,21,Other,167,51,Intermediate,Increase endurance,1,Powerlifting,"Dumbbell, Bands",Glutes,44
+user_308,25,Other,186,52,Beginner,Improve flexibility,1,CrossFit,Machine,Chest,26
+user_309,47,Other,184,71,Intermediate,Sports performance,1,Cardio cycling,"Kettlebells, Minimal equipment, Bodyweight",Calves,72
+user_310,35,Male,176,62,Beginner,Increase endurance,2,Calisthenics,"Body Only, Outdoor park",Quads,87
+user_311,38,Female,165,50,Beginner,Tone body,1,Powerlifting,Kettlebells,Core,33
+user_312,48,Other,159,56,Expert,Build muscle,2,Cardio running,"Machine, Body Only, Cable",Chest,36
+user_313,24,Other,197,75,Expert,Prepare for event,2,Calisthenics,"Body Only, Barbell, Minimal equipment",Chest,68
+user_314,45,Female,174,83,Beginner,Build muscle,2,Dance,"Dumbbell, Kettlebells, Full gym",Quads,21
+user_315,52,Other,195,81,Intermediate,Improve cardio,1,Cardio rowing,"None, Barbell, Home gym",Triceps,62
+user_316,32,Female,171,56,Beginner,Improve strength,1,Strength training,Bodyweight,Legs,56
+user_317,26,Male,182,65,Expert,Improve cardio,3,HIIT High Intensity Interval Training,"Home gym, Bands",Chest,33
+user_318,45,Other,179,81,Expert,General health,1,Cardio rowing,"Dumbbell, Home gym, Outdoor park",Hamstrings,38
+user_319,31,Female,157,91,Expert,Weight loss,1,No preference,"Barbell, Body Only",Shoulders,49
+user_320,47,Male,177,79,Expert,Sports performance,1,Dance,"Cable, Bodyweight, Outdoor park",Abs,81
+user_321,18,Other,184,80,Beginner,Tone body,2,Calisthenics,"Bands, Dumbbell, Home gym",Legs,88
+user_322,45,Female,187,83,Beginner,Prepare for event,5,Strength training,"Bands, Full gym, Kettlebells",Triceps,23
+user_323,55,Male,198,70,Beginner,Improve flexibility,3,Yoga,"None, Bands, Cable",Biceps,69
+user_324,59,Other,170,69,Intermediate,Wellness,3,Zumba,Full gym,Chest,88
+user_325,42,Female,163,79,Expert,Weight loss,5,Cardio rowing,Machine,Forearms,57
+user_326,41,Other,151,52,Expert,Injury recovery,3,Calisthenics,Cable,Back,49
+user_327,53,Male,198,62,Expert,Gain mass,3,CrossFit,Outdoor park,Biceps,49
+user_328,21,Male,198,53,Beginner,General health,3,Martial arts,"Cable, Kettlebells, Full gym",Shoulders,24
+user_329,55,Female,156,74,Beginner,Weight loss,4,Yoga,"Dumbbell, Full gym",Quads,23
+user_330,20,Female,151,55,Beginner,Tone body,1,Cardio rowing,"Machine, None, Bands",Chest,71
+user_331,35,Other,152,67,Beginner,Sports performance,3,No preference,"Cable, Barbell",Chest,87
+user_332,31,Male,181,65,Beginner,Prepare for event,2,Strength training,Minimal equipment,Abs,47
+user_333,49,Male,169,91,Expert,Prepare for event,4,Calisthenics,Bands,Abs,46
+user_334,55,Male,154,74,Beginner,Body recomposition,1,HIIT High Intensity Interval Training,"Dumbbell, None",Lower body,27
+user_335,45,Female,155,76,Intermediate,Weight loss,5,Dance,Kettlebells,Triceps,58
+user_336,36,Male,179,77,Intermediate,Weight loss,4,CrossFit,Bands,Legs,26
+user_337,29,Male,188,92,Intermediate,General health,3,Powerlifting,Home gym,Shoulders,65
+user_338,57,Female,173,72,Intermediate,Gain mass,2,Martial arts,"Barbell, Bands, Minimal equipment",Chest,54
+user_339,35,Male,191,54,Expert,Gain mass,4,Swimming,Minimal equipment,Full body,80
+user_340,23,Male,182,71,Expert,Improve strength,5,Circuit training,Full gym,Core,55
+user_341,50,Other,166,60,Expert,Improve mobility,4,No preference,"Barbell, Outdoor park, None",Arms,45
+user_342,39,Female,150,77,Expert,Rehabilitation,2,Cardio rowing,"Cable, Machine",Chest,38
+user_343,52,Other,168,65,Expert,Body recomposition,4,Circuit training,"Barbell, Kettlebells, Body Only",Arms,44
+user_344,35,Other,191,94,Intermediate,Sports performance,1,Olympic weightlifting,Machine,Quads,80
+user_345,56,Other,164,69,Intermediate,Lose fat,4,No preference,Minimal equipment,Triceps,49
+user_346,35,Other,176,56,Beginner,Improve mobility,2,No preference,"Barbell, Full gym",Back,49
+user_347,39,Female,170,94,Expert,Sports performance,3,HIIT High Intensity Interval Training,None,Abs,54
+user_348,32,Male,171,98,Intermediate,Sports performance,1,Cardio running,Barbell,Chest,76
+user_349,49,Other,161,65,Beginner,Gain mass,2,Pilates,Bodyweight,Upper body,47
+user_350,23,Male,170,90,Expert,Lose fat,2,CrossFit,"Outdoor park, Machine, Bodyweight",Quads,75
+user_351,36,Male,182,96,Expert,Increase endurance,1,Martial arts,"Kettlebells, Full gym",Lower body,50
+user_352,34,Male,199,76,Beginner,Weight loss,4,Cardio cycling,"Bodyweight, Dumbbell, Kettlebells",No specific focus,50
+user_353,43,Male,175,99,Expert,Improve flexibility,2,Bodyweight training,Home gym,Back,30
+user_354,36,Other,171,79,Intermediate,Improve cardio,4,HIIT High Intensity Interval Training,"Minimal equipment, None, Bands",Upper body,43
+user_355,58,Male,180,81,Intermediate,Increase endurance,4,No preference,Machine,No specific focus,60
+user_356,26,Female,180,94,Expert,Tone body,3,Cardio cycling,"Bands, Full gym, Machine",Biceps,73
+user_357,29,Other,170,55,Intermediate,Improve mobility,2,No preference,"Machine, Home gym, Full gym",Chest,28
+user_358,39,Female,164,74,Expert,Weight loss,3,Dance,"None, Bodyweight, Body Only",Legs,48
+user_359,43,Female,157,88,Expert,Lose fat,3,CrossFit,Kettlebells,Shoulders,89
+user_360,46,Male,187,96,Expert,Improve mobility,4,Bodyweight training,"Full gym, Home gym",Shoulders,63
+user_361,45,Female,167,94,Expert,Build muscle,5,Zumba,"None, Cable, Kettlebells",Glutes,24
+user_362,56,Female,169,50,Intermediate,Injury recovery,3,Pilates,"Full gym, None",Back,68
+user_363,51,Other,168,81,Beginner,Wellness,5,Dance,"None, Kettlebells, Outdoor park",Upper body,31
+user_364,26,Other,181,73,Intermediate,Rehabilitation,4,Yoga,"Bodyweight, Minimal equipment",Biceps,76
+user_365,32,Male,160,70,Beginner,Wellness,1,Circuit training,Minimal equipment,Chest,78
+user_366,51,Other,192,52,Intermediate,Rehabilitation,4,Olympic weightlifting,"Full gym, Cable",Arms,33
+user_367,25,Female,150,77,Expert,Rehabilitation,5,Powerlifting,"Minimal equipment, Machine",Chest,63
+user_368,50,Female,162,66,Beginner,Improve cardio,5,Strength training,"Minimal equipment, Full gym, Home gym",Back,48
+user_369,47,Other,173,87,Intermediate,Wellness,5,Olympic weightlifting,Outdoor park,Calves,88
+user_370,50,Female,158,60,Expert,Weight loss,2,Functional training,Kettlebells,Quads,44
+user_371,36,Male,198,81,Intermediate,Tone body,3,Calisthenics,None,Abs,25
+user_372,44,Other,190,97,Intermediate,Body recomposition,4,Calisthenics,"Barbell, Bands",Quads,65
+user_373,52,Male,191,95,Intermediate,Wellness,3,Circuit training,"Full gym, Dumbbell",Chest,37
+user_374,37,Female,171,64,Expert,Improve flexibility,4,Zumba,"Body Only, Cable",Abs,55
+user_375,25,Female,194,57,Expert,Prepare for event,5,Bodyweight training,Outdoor park,Glutes,68
+user_376,54,Other,167,80,Expert,Gain mass,3,CrossFit,"Bodyweight, Bands, None",Full body,59
+user_377,37,Female,173,50,Intermediate,Injury recovery,5,Martial arts,Bodyweight,Chest,31
+user_378,58,Female,157,81,Beginner,Improve flexibility,2,Cardio running,"Outdoor park, None, Full gym",Hamstrings,42
+user_379,36,Other,169,80,Beginner,Prepare for event,2,Yoga,"Bodyweight, Barbell",Forearms,82
+user_380,46,Female,183,81,Intermediate,Build muscle,1,No preference,"Machine, Outdoor park",Lower body,81
+user_381,38,Other,189,54,Expert,Body recomposition,3,Dance,Bodyweight,Triceps,33
+user_382,57,Other,181,58,Beginner,Increase endurance,4,Bodyweight training,"Dumbbell, None, Bands",Lower body,62
+user_383,46,Male,165,78,Expert,Improve strength,1,Cardio cycling,Barbell,Lower body,21
+user_384,22,Female,189,77,Beginner,Weight loss,4,HIIT High Intensity Interval Training,"Minimal equipment, Bands, Home gym",Legs,39
+user_385,20,Other,152,52,Intermediate,Build muscle,5,Strength training,Kettlebells,Calves,80
+user_386,47,Other,184,55,Expert,Weight loss,1,Olympic weightlifting,"Outdoor park, None",Quads,56
+user_387,40,Female,186,93,Intermediate,Increase endurance,2,Olympic weightlifting,"Barbell, Bodyweight, Cable",Legs,65
+user_388,38,Other,183,69,Beginner,Improve flexibility,1,Olympic weightlifting,Home gym,Legs,67
+user_389,34,Female,157,85,Beginner,Wellness,5,Circuit training,"Body Only, Dumbbell, Machine",Chest,28
+user_390,45,Other,162,84,Intermediate,Improve strength,5,Martial arts,Minimal equipment,Abs,68
+user_391,52,Female,198,64,Expert,Increase endurance,1,Powerlifting,"Cable, Home gym",Arms,47
+user_392,54,Male,190,83,Expert,Increase endurance,2,Dance,"None, Minimal equipment",Calves,29
+user_393,59,Male,157,83,Intermediate,Tone body,2,Functional training,"Full gym, None, Body Only",Chest,23
+user_394,45,Other,174,99,Expert,Gain mass,5,Cardio running,"Body Only, Machine",Glutes,33
+user_395,52,Female,168,84,Beginner,Rehabilitation,1,Pilates,"Dumbbell, Full gym, Cable",Lower body,38
+user_396,47,Other,169,54,Expert,Improve strength,2,CrossFit,"Full gym, Barbell, Outdoor park",Shoulders,23
+user_397,32,Female,179,76,Intermediate,Rehabilitation,1,Swimming,Kettlebells,Legs,33
+user_398,53,Male,180,68,Beginner,Improve flexibility,1,Yoga,Machine,Shoulders,65
+user_399,39,Female,156,82,Expert,Tone body,2,Cardio running,"Machine, Full gym",Abs,68
+user_400,54,Male,158,85,Intermediate,Lose fat,1,Calisthenics,"Bodyweight, Kettlebells, Home gym",Chest,63
+user_401,31,Male,197,89,Expert,Sports performance,2,Dance,"Dumbbell, Body Only, Kettlebells",Triceps,79
+user_402,43,Female,193,57,Intermediate,Improve cardio,3,HIIT High Intensity Interval Training,"Full gym, Cable, Home gym",Forearms,89
+user_403,49,Female,179,90,Beginner,Sports performance,5,Yoga,Dumbbell,Biceps,69
+user_404,40,Female,182,83,Beginner,Gain mass,5,HIIT High Intensity Interval Training,"Machine, Bodyweight",Legs,57
+user_405,53,Other,196,82,Intermediate,General health,3,Swimming,"None, Bands, Barbell",Lower body,38
+user_406,56,Female,196,73,Beginner,Lose fat,2,Pilates,"Kettlebells, Home gym",Arms,42
+user_407,47,Female,192,91,Expert,Improve cardio,5,Functional training,"Barbell, Body Only",Forearms,72
+user_408,25,Male,197,74,Intermediate,Improve cardio,3,Cardio rowing,"Home gym, Machine",Triceps,79
+user_409,23,Female,157,57,Beginner,Improve flexibility,2,Olympic weightlifting,"Outdoor park, Minimal equipment",Shoulders,29
+user_410,43,Female,163,58,Beginner,Increase endurance,3,Pilates,Dumbbell,Core,54
+user_411,25,Other,163,84,Expert,Wellness,5,Olympic weightlifting,Cable,Arms,24
+user_412,34,Male,157,94,Intermediate,Improve strength,2,Pilates,"Body Only, Bands, Outdoor park",Lower body,25
+user_413,37,Female,179,70,Expert,Improve cardio,3,No preference,"Dumbbell, Bodyweight",Back,29
+user_414,53,Male,180,52,Beginner,Prepare for event,1,No preference,None,Glutes,83
+user_415,48,Other,182,65,Intermediate,Tone body,1,Cardio cycling,Kettlebells,Core,47
+user_416,28,Other,156,86,Expert,Improve flexibility,2,Circuit training,"Dumbbell, Body Only, Machine",Core,34
+user_417,47,Female,171,83,Expert,Weight loss,5,Dance,Cable,Biceps,56
+user_418,36,Other,193,80,Intermediate,Improve strength,3,Cardio rowing,Body Only,Upper body,38
+user_419,30,Female,175,78,Beginner,Increase endurance,3,Olympic weightlifting,"Cable, Kettlebells, Body Only",Chest,64
+user_420,55,Female,184,58,Beginner,Prepare for event,2,Zumba,"Kettlebells, Cable, Bands",Legs,74
+user_421,27,Male,189,69,Expert,Tone body,1,Cardio cycling,"Barbell, Home gym",Arms,21
+user_422,51,Female,174,99,Beginner,Build muscle,4,Strength training,"Cable, Minimal equipment, Bodyweight",Hamstrings,26
+user_423,33,Female,198,78,Expert,Lose fat,3,Strength training,Bands,No specific focus,49
+user_424,35,Male,172,84,Intermediate,Injury recovery,4,Olympic weightlifting,"None, Kettlebells, Outdoor park",Glutes,23
+user_425,47,Female,185,59,Beginner,Sports performance,3,Cardio running,"Body Only, None, Bands",Chest,27
+user_426,47,Female,176,97,Intermediate,Tone body,1,Bodyweight training,"Machine, Full gym, Minimal equipment",Legs,58
+user_427,23,Other,158,98,Expert,Improve flexibility,5,Zumba,"Body Only, Cable",Quads,80
+user_428,56,Male,166,52,Expert,Rehabilitation,3,Swimming,"Bands, Cable, Minimal equipment",No specific focus,62
+user_429,52,Male,169,93,Intermediate,Rehabilitation,1,Martial arts,"Home gym, Outdoor park",Lower body,86
+user_430,47,Other,165,56,Beginner,General health,3,Cardio cycling,"Minimal equipment, Cable, Kettlebells",Abs,42
+user_431,42,Female,182,53,Beginner,Injury recovery,2,Olympic weightlifting,Home gym,Back,76
+user_432,25,Male,169,90,Beginner,Prepare for event,3,Bodyweight training,Full gym,Legs,77
+user_433,20,Male,192,70,Beginner,General health,5,Martial arts,"Barbell, Full gym",Calves,46
+user_434,37,Other,150,51,Beginner,Improve strength,3,Cardio rowing,"Minimal equipment, None",Abs,48
+user_435,54,Other,157,94,Intermediate,General health,1,Powerlifting,Machine,Triceps,61
+user_436,39,Male,168,71,Intermediate,Increase endurance,2,Circuit training,"Kettlebells, Home gym, Bands",No specific focus,46
+user_437,54,Other,151,67,Expert,Sports performance,3,Dance,"Dumbbell, Minimal equipment",Biceps,40
+user_438,45,Other,184,88,Beginner,Improve cardio,5,No preference,"Home gym, Full gym",Full body,32
+user_439,58,Other,176,67,Beginner,Body recomposition,2,Functional training,"Outdoor park, Bands, Kettlebells",Full body,74
+user_440,57,Male,196,96,Beginner,Improve mobility,5,Zumba,Bodyweight,Chest,87
+user_441,20,Other,162,75,Expert,Prepare for event,5,Cardio rowing,"Bodyweight, Outdoor park",Chest,50
+user_442,24,Male,188,98,Intermediate,Tone body,5,Cardio rowing,Bodyweight,Arms,59
+user_443,25,Other,177,95,Expert,Injury recovery,3,Powerlifting,"Dumbbell, Bands, Minimal equipment",Biceps,30
+user_444,37,Female,169,78,Intermediate,Body recomposition,2,No preference,Cable,Arms,34
+user_445,33,Male,191,68,Beginner,Build muscle,5,Martial arts,"Barbell, Outdoor park, Body Only",Triceps,31
+user_446,49,Male,162,76,Expert,Build muscle,5,Pilates,"Minimal equipment, Kettlebells, Dumbbell",Triceps,77
+user_447,26,Female,172,92,Expert,Injury recovery,3,No preference,"Bodyweight, Kettlebells, Bands",Full body,48
+user_448,30,Other,173,71,Intermediate,Lose fat,2,Strength training,"Dumbbell, Bodyweight, Machine",Full body,66
+user_449,40,Male,194,58,Intermediate,Weight loss,4,Zumba,"Kettlebells, Machine",No specific focus,60
+user_450,34,Male,195,50,Beginner,General health,2,Swimming,"Cable, None",Calves,73
+user_451,25,Male,192,95,Expert,Lose fat,4,Olympic weightlifting,Minimal equipment,Upper body,24
+user_452,26,Other,155,75,Intermediate,Injury recovery,4,Strength training,"Barbell, Body Only",Arms,39
+user_453,38,Other,154,51,Expert,Rehabilitation,3,Cardio rowing,"Full gym, Dumbbell, Body Only",Forearms,75
+user_454,47,Female,177,80,Intermediate,Lose fat,3,Pilates,"Bands, Kettlebells",Quads,65
+user_455,43,Other,184,90,Expert,Sports performance,1,Pilates,"Bodyweight, Kettlebells",Full body,44
+user_456,34,Female,189,78,Expert,Tone body,2,Functional training,"Full gym, Kettlebells, Body Only",No specific focus,80
+user_457,49,Other,198,74,Beginner,Lose fat,1,Strength training,"None, Outdoor park, Barbell",Chest,38
+user_458,19,Male,150,70,Expert,Wellness,4,Strength training,"Body Only, Bodyweight",Lower body,73
+user_459,45,Other,186,88,Intermediate,Improve strength,3,Calisthenics,"Bands, Dumbbell",Legs,57
+user_460,23,Other,170,85,Intermediate,Gain mass,4,Swimming,Bands,Hamstrings,78
+user_461,19,Female,183,72,Beginner,Tone body,5,CrossFit,Bands,Full body,70
+user_462,37,Male,162,80,Intermediate,General health,1,Yoga,"Dumbbell, Bodyweight",Shoulders,58
+user_463,58,Male,174,61,Expert,Rehabilitation,1,HIIT High Intensity Interval Training,"Cable, Barbell",No specific focus,37
+user_464,56,Male,165,59,Beginner,Lose fat,5,HIIT High Intensity Interval Training,Minimal equipment,Arms,62
+user_465,47,Female,193,62,Beginner,Body recomposition,4,Swimming,"Body Only, Barbell, Dumbbell",Biceps,75
+user_466,49,Male,165,94,Intermediate,Weight loss,4,Olympic weightlifting,Cable,Hamstrings,48
+user_467,32,Male,188,69,Expert,Weight loss,4,Calisthenics,"Minimal equipment, None",Hamstrings,62
+user_468,21,Other,172,93,Beginner,Build muscle,4,Zumba,"Machine, None",Lower body,40
+user_469,56,Female,181,62,Beginner,Improve mobility,2,Yoga,Cable,Biceps,88
+user_470,46,Other,154,83,Intermediate,Lose fat,3,Cardio rowing,"Bands, None, Outdoor park",Triceps,45
+user_471,34,Male,188,91,Intermediate,Improve cardio,5,Pilates,"Bands, Cable",Core,32
+user_472,34,Female,188,52,Intermediate,Sports performance,5,No preference,"Machine, Body Only",Back,63
+user_473,46,Male,164,84,Intermediate,Improve flexibility,5,No preference,"Cable, Home gym",Triceps,70
+user_474,36,Other,165,84,Intermediate,General health,3,HIIT High Intensity Interval Training,"Machine, Body Only, Home gym",Biceps,47
+user_475,29,Female,170,91,Beginner,Rehabilitation,3,Olympic weightlifting,Cable,Abs,28
+user_476,22,Female,183,58,Expert,Build muscle,4,HIIT High Intensity Interval Training,"Bodyweight, Full gym, Dumbbell",No specific focus,52
+user_477,54,Other,184,56,Intermediate,Sports performance,3,Martial arts,"Cable, Full gym, None",Triceps,47
+user_478,20,Other,175,68,Intermediate,General health,4,Yoga,"Barbell, Minimal equipment",No specific focus,37
+user_479,24,Other,159,54,Beginner,Body recomposition,3,Swimming,"Full gym, None",Glutes,59
+user_480,26,Other,156,74,Beginner,Tone body,5,Swimming,"Bands, Outdoor park",Lower body,80
+user_481,58,Female,195,76,Expert,Body recomposition,5,CrossFit,"Outdoor park, Barbell",Glutes,51
+user_482,40,Other,170,96,Expert,Tone body,3,CrossFit,"Machine, Body Only, Cable",No specific focus,78
+user_483,32,Female,185,60,Expert,Improve strength,1,HIIT High Intensity Interval Training,Full gym,Quads,20
+user_484,28,Male,181,61,Expert,Gain mass,3,Yoga,"Machine, Barbell",Quads,66
+user_485,43,Male,179,92,Intermediate,Increase endurance,4,Cardio running,"Dumbbell, Outdoor park, Barbell",No specific focus,62
+user_486,46,Female,163,94,Expert,Improve flexibility,4,Cardio rowing,Machine,No specific focus,46
+user_487,48,Male,150,89,Expert,Gain mass,4,HIIT High Intensity Interval Training,Full gym,Upper body,73
+user_488,41,Male,156,91,Beginner,General health,5,Yoga,"Barbell, Home gym",Upper body,69
+user_489,58,Female,187,56,Beginner,Improve cardio,2,Cardio cycling,"Cable, Outdoor park, None",Abs,47
+user_490,18,Female,156,54,Expert,Weight loss,5,Powerlifting,"Cable, Barbell",Calves,69
+user_491,23,Female,151,85,Intermediate,Increase endurance,1,Yoga,"Home gym, Kettlebells, Bodyweight",Calves,32
+user_492,57,Male,173,94,Beginner,Sports performance,2,Cardio rowing,Bodyweight,Calves,54
+user_493,45,Male,162,90,Intermediate,Prepare for event,2,Functional training,Bodyweight,Triceps,29
+user_494,46,Male,195,71,Expert,Wellness,4,CrossFit,"Dumbbell, Bands, Machine",No specific focus,20
+user_495,22,Other,194,93,Intermediate,Improve cardio,4,Circuit training,Outdoor park,Shoulders,68
+user_496,30,Other,199,85,Intermediate,Increase endurance,5,Functional training,"Minimal equipment, Outdoor park",Back,60
+user_497,28,Female,152,82,Intermediate,Lose fat,5,CrossFit,"Cable, Barbell, Machine",Legs,61
+user_498,44,Male,194,99,Intermediate,Improve mobility,5,Functional training,"Dumbbell, Body Only, Outdoor park",Lower body,42
+user_499,55,Female,197,85,Expert,General health,1,HIIT High Intensity Interval Training,Dumbbell,Hamstrings,73
+user_500,54,Female,152,73,Beginner,Sports performance,2,Bodyweight training,"Bands, Dumbbell",No specific focus,54
+user_501,22,Female,173,58,Expert,Body recomposition,4,Bodyweight training,"Full gym, Bodyweight",Abs,57
+user_502,25,Male,173,90,Expert,Improve flexibility,2,Cardio rowing,"Machine, Barbell",Chest,71
+user_503,31,Male,176,88,Intermediate,Lose fat,3,Zumba,"Minimal equipment, Kettlebells",Calves,87
+user_504,25,Female,166,86,Expert,Improve mobility,2,Functional training,"Machine, Kettlebells, Bodyweight",Forearms,79
+user_505,41,Other,197,98,Expert,Wellness,4,Powerlifting,Cable,Glutes,55
+user_506,41,Male,198,51,Expert,Body recomposition,4,HIIT High Intensity Interval Training,Bands,Arms,50
+user_507,57,Male,157,87,Beginner,Sports performance,5,Olympic weightlifting,Kettlebells,Back,55
+user_508,18,Other,194,57,Beginner,Weight loss,2,Zumba,"Machine, Cable, Barbell",No specific focus,51
+user_509,29,Other,167,97,Intermediate,General health,2,Zumba,"Body Only, Full gym",Upper body,78
+user_510,26,Other,186,70,Intermediate,Improve cardio,3,Calisthenics,"Bodyweight, Cable, None",Abs,24
+user_511,23,Male,196,99,Intermediate,Tone body,2,Zumba,"Bodyweight, Kettlebells, Barbell",Glutes,49
+user_512,32,Male,188,59,Beginner,Build muscle,2,Strength training,"Machine, Kettlebells",Shoulders,32
+user_513,24,Female,192,93,Expert,Improve flexibility,5,No preference,Bands,Core,69
+user_514,23,Other,155,96,Beginner,Improve mobility,2,Calisthenics,"Dumbbell, Bodyweight",Upper body,62
+user_515,27,Female,197,98,Expert,Increase endurance,5,Cardio running,"Bands, Minimal equipment",Chest,25
+user_516,18,Other,156,76,Expert,Increase endurance,1,Strength training,"Home gym, Bodyweight, Minimal equipment",Arms,87
+user_517,28,Other,150,91,Intermediate,Wellness,4,Powerlifting,"Cable, Body Only, Home gym",Chest,71
+user_518,54,Other,192,55,Beginner,General health,1,Swimming,"Dumbbell, Full gym",Quads,60
+user_519,46,Male,173,84,Beginner,Weight loss,1,Yoga,"Barbell, Bodyweight, Dumbbell",Upper body,23
+user_520,36,Female,160,80,Expert,Build muscle,2,Circuit training,"Cable, None, Barbell",Forearms,68
+user_521,33,Other,181,95,Expert,Lose fat,5,Cardio cycling,"Dumbbell, Cable",Core,71
+user_522,44,Other,159,57,Expert,Build muscle,5,HIIT High Intensity Interval Training,Full gym,Lower body,84
+user_523,42,Female,150,53,Beginner,Build muscle,1,Powerlifting,Kettlebells,Triceps,73
+user_524,47,Male,174,61,Expert,Increase endurance,2,No preference,"Dumbbell, Machine, Outdoor park",Hamstrings,44
+user_525,41,Male,156,52,Intermediate,Wellness,4,HIIT High Intensity Interval Training,Bodyweight,Arms,43
+user_526,31,Female,183,70,Intermediate,Body recomposition,1,Powerlifting,Machine,Forearms,88
+user_527,21,Other,160,99,Intermediate,Improve cardio,4,Dance,"Dumbbell, Body Only",Core,69
+user_528,34,Other,165,61,Intermediate,Increase endurance,4,Cardio cycling,Barbell,Glutes,43
+user_529,53,Other,157,64,Expert,General health,3,Bodyweight training,"None, Bodyweight, Body Only",Biceps,41
+user_530,37,Female,187,90,Expert,Wellness,5,Cardio running,Minimal equipment,Legs,34
+user_531,36,Other,176,98,Beginner,Build muscle,4,Pilates,"Outdoor park, Bands, Cable",Triceps,21
+user_532,24,Male,171,85,Intermediate,Gain mass,2,Pilates,"Body Only, Bodyweight",Calves,29
+user_533,58,Other,190,78,Intermediate,General health,5,Functional training,"Bands, Home gym, Outdoor park",Lower body,23
+user_534,32,Other,162,77,Beginner,Prepare for event,2,Dance,Kettlebells,Arms,82
+user_535,54,Other,193,83,Intermediate,Lose fat,1,Olympic weightlifting,None,Biceps,33
+user_536,28,Other,151,62,Intermediate,Sports performance,3,Cardio rowing,"Bands, Full gym, Dumbbell",Arms,23
+user_537,35,Male,195,57,Expert,Improve strength,3,HIIT High Intensity Interval Training,"Minimal equipment, Dumbbell, Machine",Biceps,21
+user_538,55,Female,175,64,Intermediate,Lose fat,2,Dance,"Full gym, Body Only",Back,80
+user_539,37,Male,151,97,Intermediate,Rehabilitation,2,Functional training,Bands,Forearms,51
+user_540,18,Other,179,77,Expert,Sports performance,3,Powerlifting,"Body Only, Kettlebells, Home gym",Chest,62
+user_541,49,Male,165,82,Expert,Build muscle,1,Olympic weightlifting,Bodyweight,Chest,33
+user_542,49,Female,199,90,Expert,Improve flexibility,2,No preference,"Full gym, Body Only",Core,85
+user_543,46,Other,199,60,Beginner,Wellness,1,Bodyweight training,Minimal equipment,Upper body,83
+user_544,44,Female,199,93,Expert,Improve flexibility,4,No preference,Outdoor park,Shoulders,27
+user_545,28,Male,188,64,Beginner,Improve cardio,1,Cardio rowing,"Cable, Machine, Bodyweight",No specific focus,68
+user_546,18,Other,196,72,Beginner,Increase endurance,2,Pilates,"Home gym, Kettlebells, Barbell",No specific focus,29
+user_547,36,Other,158,76,Beginner,Rehabilitation,5,Bodyweight training,"Body Only, Minimal equipment",Core,79
+user_548,58,Other,178,61,Intermediate,Improve strength,5,Circuit training,"Full gym, Dumbbell",Full body,85
+user_549,28,Female,154,92,Beginner,Build muscle,4,Pilates,Outdoor park,Forearms,28
+user_550,49,Male,154,81,Beginner,Prepare for event,5,CrossFit,Bands,Calves,44
+user_551,43,Female,159,69,Intermediate,Sports performance,3,Cardio running,Full gym,Lower body,62
+user_552,57,Female,170,66,Intermediate,Weight loss,1,Swimming,"Bodyweight, Outdoor park, Full gym",Forearms,33
+user_553,49,Female,172,55,Intermediate,Prepare for event,1,HIIT High Intensity Interval Training,"Bodyweight, Barbell",Abs,48
+user_554,56,Other,152,98,Intermediate,Prepare for event,5,CrossFit,"Minimal equipment, Cable, Home gym",Glutes,32
+user_555,47,Female,153,97,Beginner,Prepare for event,2,Cardio cycling,"None, Minimal equipment",Arms,57
+user_556,37,Other,168,53,Beginner,Tone body,3,CrossFit,Minimal equipment,Arms,73
+user_557,56,Female,193,54,Expert,Tone body,1,Circuit training,Dumbbell,Glutes,37
+user_558,21,Female,197,72,Expert,Prepare for event,5,Swimming,Bodyweight,Calves,54
+user_559,18,Other,170,90,Intermediate,Tone body,5,No preference,"None, Barbell",Legs,52
+user_560,56,Other,152,62,Intermediate,Gain mass,4,Olympic weightlifting,"Outdoor park, Bodyweight, Minimal equipment",Quads,49
+user_561,25,Other,166,61,Intermediate,Improve flexibility,4,Cardio running,"None, Dumbbell, Outdoor park",Hamstrings,39
+user_562,42,Female,197,99,Beginner,Build muscle,4,Yoga,"Machine, Minimal equipment",Quads,31
+user_563,40,Other,167,99,Beginner,Improve strength,1,Martial arts,"Home gym, Machine",Back,45
+user_564,21,Female,169,74,Beginner,Weight loss,4,Functional training,"Dumbbell, Cable, Bodyweight",Upper body,30
+user_565,38,Female,168,62,Beginner,Rehabilitation,2,Swimming,Cable,Arms,61
+user_566,24,Other,185,73,Expert,Weight loss,3,Calisthenics,"None, Bands, Outdoor park",Arms,85
+user_567,40,Male,174,81,Intermediate,Gain mass,5,Functional training,"Body Only, Kettlebells, Full gym",Chest,72
+user_568,46,Other,198,51,Beginner,Lose fat,3,Olympic weightlifting,"Kettlebells, Machine",Calves,81
+user_569,31,Other,170,74,Expert,Increase endurance,1,Cardio running,"Minimal equipment, Home gym",Triceps,67
+user_570,41,Male,181,83,Intermediate,Build muscle,5,Calisthenics,"Bodyweight, Body Only, Home gym",Forearms,55
+user_571,49,Other,192,87,Expert,Improve cardio,1,Calisthenics,"Full gym, Bodyweight",Lower body,61
+user_572,39,Male,174,53,Expert,Prepare for event,1,Dance,None,Quads,58
+user_573,37,Other,185,78,Expert,General health,4,CrossFit,"Body Only, Full gym",Quads,81
+user_574,40,Other,181,55,Expert,Increase endurance,2,Dance,"Cable, Bodyweight, None",Abs,45
+user_575,41,Other,171,51,Intermediate,Improve flexibility,5,Pilates,"Full gym, Home gym",Glutes,35
+user_576,58,Other,191,71,Beginner,Prepare for event,5,Cardio rowing,Bodyweight,Glutes,55
+user_577,52,Other,153,80,Expert,Injury recovery,1,HIIT High Intensity Interval Training,"Outdoor park, Bodyweight, Cable",Calves,55
+user_578,59,Female,173,64,Intermediate,Gain mass,1,Bodyweight training,"Dumbbell, Machine, Full gym",Upper body,72
+user_579,55,Female,172,53,Expert,Injury recovery,2,CrossFit,Barbell,Triceps,40
+user_580,27,Male,198,60,Intermediate,Rehabilitation,1,No preference,Body Only,Back,32
+user_581,48,Female,168,55,Expert,Sports performance,5,CrossFit,Minimal equipment,Triceps,77
+user_582,51,Female,184,88,Beginner,Body recomposition,1,Cardio cycling,"Body Only, Outdoor park",Quads,33
+user_583,28,Other,163,74,Beginner,Rehabilitation,2,Functional training,None,Upper body,54
+user_584,54,Female,158,90,Expert,Wellness,2,Circuit training,"Barbell, Bodyweight, Outdoor park",Forearms,24
+user_585,54,Male,162,51,Intermediate,Weight loss,4,HIIT High Intensity Interval Training,None,Biceps,39
+user_586,30,Male,150,83,Beginner,Gain mass,5,Dance,"Machine, Barbell, Bands",Abs,35
+user_587,28,Female,155,94,Expert,Body recomposition,4,Circuit training,Barbell,Quads,21
+user_588,49,Other,183,71,Intermediate,Improve flexibility,2,Bodyweight training,"Barbell, Cable",Chest,82
+user_589,19,Other,171,74,Expert,Improve flexibility,4,Cardio running,"Outdoor park, Bands, Dumbbell",Forearms,23
+user_590,30,Male,154,66,Expert,Improve flexibility,4,Functional training,"None, Bodyweight",Chest,55
+user_591,34,Female,174,86,Expert,Lose fat,4,CrossFit,Cable,Back,76
+user_592,19,Female,191,99,Beginner,Increase endurance,3,Powerlifting,"Bands, Barbell",Chest,36
+user_593,49,Female,179,63,Beginner,Weight loss,2,Zumba,"None, Dumbbell",Arms,28
+user_594,49,Male,166,53,Expert,Improve flexibility,4,Olympic weightlifting,Machine,Legs,39
+user_595,50,Female,154,65,Beginner,Lose fat,5,CrossFit,"Home gym, Cable",Glutes,25
+user_596,19,Other,167,58,Intermediate,Improve flexibility,3,Olympic weightlifting,None,Upper body,79
+user_597,28,Other,176,58,Intermediate,General health,2,HIIT High Intensity Interval Training,"Machine, Outdoor park",Full body,35
+user_598,30,Female,199,81,Expert,Wellness,4,Yoga,"Bands, Barbell, Kettlebells",Shoulders,53
+user_599,23,Male,155,66,Expert,Tone body,2,Yoga,Dumbbell,Quads,75
+user_600,22,Other,195,69,Intermediate,General health,4,Cardio running,Kettlebells,No specific focus,25
+user_601,37,Male,185,67,Expert,Wellness,3,Strength training,Bands,Lower body,71
+user_602,49,Male,157,55,Expert,Tone body,2,Dance,"Bodyweight, Bands",Chest,75
+user_603,19,Other,167,55,Intermediate,Gain mass,1,Olympic weightlifting,"Barbell, Machine",Legs,75
+user_604,29,Female,197,87,Intermediate,Improve flexibility,4,CrossFit,"Full gym, Bands",Lower body,84
+user_605,58,Male,167,56,Intermediate,General health,4,CrossFit,"Barbell, Outdoor park",Upper body,25
+user_606,41,Other,152,57,Intermediate,Weight loss,2,Dance,Bodyweight,Calves,32
+user_607,43,Male,179,87,Beginner,Lose fat,5,CrossFit,"Bodyweight, Dumbbell",Arms,42
+user_608,54,Female,179,67,Expert,Build muscle,5,Yoga,"Bands, Outdoor park",Lower body,36
+user_609,28,Female,152,78,Beginner,Improve mobility,5,Calisthenics,"Home gym, Machine, None",Quads,73
+user_610,18,Other,166,58,Beginner,Increase endurance,3,Pilates,"Home gym, Body Only, Machine",Upper body,79
+user_611,53,Male,177,69,Intermediate,Wellness,2,HIIT High Intensity Interval Training,Dumbbell,Lower body,24
+user_612,53,Female,168,57,Beginner,Sports performance,2,Martial arts,Cable,Lower body,51
+user_613,29,Female,195,57,Beginner,Wellness,5,Circuit training,"Dumbbell, Machine",Shoulders,35
+user_614,29,Female,181,99,Expert,Injury recovery,5,Powerlifting,"Bands, Home gym, Minimal equipment",Glutes,44
+user_615,58,Other,157,91,Expert,Injury recovery,4,Strength training,Bodyweight,Full body,27
+user_616,46,Female,197,93,Beginner,Injury recovery,1,Zumba,Outdoor park,Biceps,78
+user_617,53,Female,160,66,Expert,Gain mass,3,Swimming,"None, Full gym, Bands",Core,71
+user_618,22,Other,181,52,Beginner,Build muscle,5,Pilates,"Full gym, Body Only, Minimal equipment",Core,82
+user_619,20,Other,163,67,Beginner,Tone body,3,Cardio rowing,Bodyweight,Biceps,39
+user_620,29,Other,167,96,Beginner,Body recomposition,4,Cardio rowing,"Full gym, Bands, None",Legs,47
+user_621,35,Male,173,66,Beginner,Tone body,1,Zumba,Home gym,Core,37
+user_622,36,Female,172,84,Beginner,Gain mass,2,Martial arts,"Minimal equipment, Outdoor park",Abs,73
+user_623,49,Female,171,93,Beginner,Injury recovery,1,Dance,Outdoor park,Glutes,72
+user_624,20,Male,184,72,Intermediate,Gain mass,2,Swimming,Outdoor park,Triceps,60
+user_625,55,Female,175,77,Beginner,Lose fat,1,Olympic weightlifting,Bodyweight,Forearms,76
+user_626,57,Other,155,50,Intermediate,General health,3,Cardio cycling,Body Only,Hamstrings,67
+user_627,29,Other,167,78,Expert,Gain mass,4,Cardio running,"Cable, Barbell",Full body,53
+user_628,26,Other,177,61,Beginner,Tone body,2,Dance,Home gym,Full body,41
+user_629,58,Female,162,68,Beginner,Improve mobility,2,Circuit training,"Dumbbell, Bands, Minimal equipment",Biceps,78
+user_630,49,Female,182,61,Intermediate,Improve flexibility,4,Cardio rowing,"Dumbbell, Outdoor park, Full gym",Abs,46
+user_631,46,Other,192,62,Expert,Improve mobility,3,Cardio cycling,"Full gym, Bodyweight, Machine",Quads,74
+user_632,33,Female,182,60,Beginner,Increase endurance,3,Bodyweight training,Outdoor park,Glutes,83
+user_633,35,Male,157,55,Intermediate,Gain mass,3,Swimming,Bodyweight,No specific focus,22
+user_634,37,Female,152,91,Intermediate,Improve mobility,2,Martial arts,Kettlebells,Quads,59
+user_635,29,Male,157,94,Intermediate,Weight loss,3,Powerlifting,"Bands, Kettlebells, Barbell",Biceps,21
+user_636,43,Male,158,77,Intermediate,Prepare for event,2,Yoga,"Dumbbell, Home gym",Full body,54
+user_637,33,Male,166,89,Intermediate,Body recomposition,4,Pilates,Cable,Core,63
+user_638,21,Other,192,84,Expert,Improve flexibility,4,Dance,Bodyweight,Full body,79
+user_639,30,Female,156,78,Intermediate,Increase endurance,2,Pilates,"None, Kettlebells, Full gym",Shoulders,65
+user_640,35,Female,150,81,Intermediate,Sports performance,4,Zumba,"Full gym, None, Machine",Shoulders,49
+user_641,28,Other,161,86,Beginner,Body recomposition,1,CrossFit,"Outdoor park, Barbell",Forearms,87
+user_642,26,Other,199,72,Beginner,Weight loss,2,Cardio cycling,"Barbell, Body Only",Shoulders,71
+user_643,28,Other,169,59,Expert,Improve strength,5,Functional training,Minimal equipment,Triceps,57
+user_644,48,Male,159,84,Intermediate,Sports performance,3,Yoga,Barbell,Lower body,42
+user_645,36,Other,174,64,Intermediate,Sports performance,4,Yoga,"Kettlebells, Outdoor park",Triceps,66
+user_646,58,Female,155,83,Intermediate,Tone body,2,Functional training,Dumbbell,Core,76
+user_647,56,Other,156,86,Expert,Increase endurance,3,Martial arts,None,Calves,70
+user_648,18,Male,169,66,Intermediate,Injury recovery,2,Dance,"Kettlebells, Bodyweight",Calves,82
+user_649,32,Female,186,83,Beginner,Injury recovery,2,No preference,Dumbbell,No specific focus,68
+user_650,39,Female,162,71,Intermediate,Prepare for event,3,Zumba,Bands,Glutes,72
+user_651,46,Female,158,68,Beginner,Sports performance,4,CrossFit,"None, Bands",Glutes,75
+user_652,34,Male,156,95,Expert,Improve strength,2,Cardio cycling,"Cable, Minimal equipment, Body Only",Back,78
+user_653,42,Other,153,60,Beginner,Wellness,4,Functional training,"Body Only, Kettlebells, Cable",Abs,75
+user_654,22,Other,186,81,Intermediate,Increase endurance,5,CrossFit,"Bands, Cable, Full gym",Glutes,25
+user_655,25,Female,152,66,Expert,Improve cardio,2,Calisthenics,"Bands, Machine",Biceps,68
+user_656,28,Other,188,71,Intermediate,Build muscle,5,Calisthenics,"Barbell, Cable",Legs,22
+user_657,46,Other,198,87,Intermediate,Improve flexibility,4,Calisthenics,"Barbell, Body Only, Minimal equipment",Biceps,71
+user_658,29,Male,159,75,Intermediate,Improve flexibility,5,Yoga,"Outdoor park, Home gym",Full body,39
+user_659,30,Female,199,87,Intermediate,Improve cardio,5,Cardio cycling,Cable,Upper body,73
+user_660,19,Other,199,57,Intermediate,Sports performance,1,Martial arts,"Bands, Outdoor park",Lower body,37
+user_661,27,Other,158,70,Intermediate,Tone body,5,Martial arts,"None, Body Only, Full gym",Upper body,44
+user_662,52,Other,172,53,Beginner,Gain mass,1,Yoga,Home gym,Quads,64
+user_663,51,Male,161,93,Intermediate,Body recomposition,4,Dance,"Bands, Body Only",Upper body,40
+user_664,50,Female,192,79,Intermediate,Tone body,1,Yoga,"Full gym, Bodyweight",Forearms,36
+user_665,38,Female,189,69,Expert,Gain mass,1,Cardio cycling,"Barbell, Minimal equipment, Full gym",Lower body,77
+user_666,26,Other,198,69,Expert,Improve flexibility,5,Powerlifting,"None, Dumbbell",No specific focus,75
+user_667,38,Female,168,65,Intermediate,Weight loss,5,Olympic weightlifting,"Home gym, Cable, Minimal equipment",Triceps,29
+user_668,20,Male,193,87,Intermediate,Improve mobility,3,Pilates,"Machine, None",Upper body,35
+user_669,36,Male,168,66,Expert,Injury recovery,3,Cardio rowing,"Kettlebells, Home gym",Abs,30
+user_670,28,Male,171,68,Beginner,General health,1,Zumba,"Dumbbell, Minimal equipment",Full body,67
+user_671,57,Other,177,79,Intermediate,Wellness,2,Dance,Body Only,Shoulders,32
+user_672,20,Female,186,98,Expert,Increase endurance,1,Cardio running,"Home gym, Full gym",Full body,53
+user_673,46,Other,196,87,Intermediate,Prepare for event,4,Pilates,"Bodyweight, Kettlebells, Minimal equipment",Core,78
+user_674,26,Female,161,71,Expert,Improve mobility,3,Powerlifting,Machine,Chest,77
+user_675,34,Female,152,50,Beginner,Lose fat,3,Dance,"Barbell, Machine, Minimal equipment",Legs,29
+user_676,40,Male,159,58,Beginner,Tone body,4,Martial arts,"Barbell, Dumbbell",Quads,23
+user_677,44,Female,176,85,Expert,Lose fat,5,Martial arts,"Body Only, Bands, Cable",Arms,87
+user_678,46,Male,158,61,Beginner,Injury recovery,4,Calisthenics,"Home gym, Machine",Upper body,68
+user_679,39,Other,187,68,Intermediate,General health,4,Cardio rowing,"None, Barbell",Chest,72
+user_680,23,Male,198,61,Expert,Build muscle,3,Martial arts,None,Triceps,58
+user_681,39,Female,191,99,Expert,Prepare for event,2,Cardio rowing,"Dumbbell, Outdoor park, Body Only",Forearms,52
+user_682,57,Female,180,58,Intermediate,Sports performance,2,Calisthenics,"Bands, Body Only",Quads,63
+user_683,50,Other,187,65,Intermediate,Tone body,2,Functional training,Full gym,Biceps,31
+user_684,40,Male,197,55,Expert,Build muscle,4,No preference,Barbell,No specific focus,36
+user_685,21,Male,190,88,Intermediate,Gain mass,2,Circuit training,"Outdoor park, Machine",Upper body,46
+user_686,54,Male,187,96,Intermediate,Tone body,5,Swimming,"Barbell, Outdoor park",Hamstrings,67
+user_687,20,Other,162,92,Expert,Wellness,5,Cardio running,Barbell,Legs,34
+user_688,44,Female,195,67,Beginner,Lose fat,4,Martial arts,"Cable, Bands",Shoulders,40
+user_689,53,Female,192,74,Beginner,Improve strength,2,Circuit training,"Cable, Machine",Full body,59
+user_690,51,Male,198,65,Intermediate,Injury recovery,3,Strength training,Bodyweight,Glutes,81
+user_691,23,Male,168,54,Expert,Weight loss,1,Powerlifting,Bodyweight,Quads,58
+user_692,50,Other,159,77,Expert,General health,2,Powerlifting,"Bands, Outdoor park, Barbell",Chest,35
+user_693,42,Female,172,61,Intermediate,Rehabilitation,5,Martial arts,Minimal equipment,Shoulders,28
+user_694,25,Other,170,67,Beginner,Weight loss,5,Cardio running,Bands,Legs,30
+user_695,39,Male,160,95,Beginner,Improve cardio,5,Yoga,Bodyweight,Triceps,88
+user_696,37,Male,188,69,Beginner,Sports performance,4,Pilates,Outdoor park,Lower body,32
+user_697,48,Other,168,84,Beginner,Injury recovery,3,Powerlifting,"Minimal equipment, Outdoor park",Biceps,65
+user_698,50,Other,159,73,Beginner,Gain mass,4,Olympic weightlifting,"Minimal equipment, Body Only",Lower body,26
+user_699,25,Female,187,50,Beginner,Lose fat,4,No preference,Outdoor park,Quads,43
+user_700,18,Female,170,79,Expert,Increase endurance,5,Olympic weightlifting,"None, Cable, Full gym",Quads,29
+user_701,50,Other,162,64,Intermediate,Weight loss,2,Cardio running,"Outdoor park, Body Only",Full body,87
+user_702,39,Female,170,88,Beginner,Weight loss,3,Calisthenics,Minimal equipment,Abs,48
+user_703,59,Female,159,73,Intermediate,Build muscle,3,Circuit training,"Outdoor park, Body Only",Shoulders,79
+user_704,56,Female,150,78,Expert,Body recomposition,1,Martial arts,Minimal equipment,Upper body,57
+user_705,53,Other,199,62,Beginner,General health,2,Martial arts,Home gym,Biceps,86
+user_706,43,Male,194,76,Expert,Improve flexibility,2,Dance,"Home gym, Bands",Back,39
+user_707,30,Female,175,82,Intermediate,Sports performance,1,Yoga,"Machine, Full gym",Hamstrings,61
+user_708,21,Other,151,79,Expert,Increase endurance,5,Cardio cycling,"Minimal equipment, Cable, Outdoor park",Lower body,57
+user_709,37,Male,173,60,Intermediate,Improve cardio,3,Cardio rowing,"Kettlebells, Barbell, Cable",Legs,75
+user_710,28,Male,187,52,Intermediate,Sports performance,5,Swimming,Machine,Core,39
+user_711,54,Male,182,57,Beginner,Increase endurance,3,Cardio running,Kettlebells,Chest,55
+user_712,48,Male,194,92,Beginner,Tone body,1,No preference,"Minimal equipment, Outdoor park",Full body,44
+user_713,57,Male,176,55,Intermediate,Improve mobility,3,Olympic weightlifting,Home gym,No specific focus,29
+user_714,30,Other,167,92,Intermediate,Body recomposition,4,Martial arts,"Home gym, Outdoor park, Barbell",Legs,67
+user_715,24,Female,185,56,Expert,Weight loss,1,Functional training,"Dumbbell, Full gym",Triceps,48
+user_716,36,Male,192,89,Expert,General health,1,Cardio rowing,"Dumbbell, Body Only, Machine",Hamstrings,63
+user_717,56,Male,155,69,Expert,Weight loss,4,Olympic weightlifting,Kettlebells,Shoulders,30
+user_718,42,Other,177,97,Intermediate,Sports performance,3,Strength training,"None, Outdoor park",No specific focus,32
+user_719,29,Male,182,64,Intermediate,Lose fat,5,Martial arts,Bodyweight,Glutes,85
+user_720,45,Male,188,66,Expert,Improve cardio,4,Swimming,"Bands, Machine",Abs,37
+user_721,55,Male,198,96,Intermediate,Improve cardio,1,Functional training,"Minimal equipment, Outdoor park",Hamstrings,79
+user_722,24,Other,193,67,Expert,Injury recovery,3,Cardio cycling,"Dumbbell, Cable",Forearms,50
+user_723,44,Female,196,70,Expert,Gain mass,1,HIIT High Intensity Interval Training,"Machine, None",No specific focus,85
+user_724,21,Other,154,74,Intermediate,Increase endurance,4,Swimming,Barbell,Biceps,54
+user_725,36,Female,173,82,Beginner,Improve flexibility,1,Bodyweight training,"Full gym, Body Only, Minimal equipment",Triceps,43
+user_726,56,Male,186,64,Beginner,Increase endurance,5,No preference,"Outdoor park, Cable",Glutes,69
+user_727,23,Male,165,86,Beginner,General health,2,HIIT High Intensity Interval Training,"Bodyweight, Home gym, Bands",Chest,49
+user_728,26,Female,163,97,Expert,Gain mass,3,Calisthenics,"Body Only, Minimal equipment",Back,51
+user_729,43,Female,161,94,Expert,Improve cardio,4,Cardio running,"Home gym, Dumbbell",Legs,28
+user_730,49,Female,187,85,Expert,Wellness,4,Dance,Home gym,Lower body,29
+user_731,29,Other,167,75,Beginner,Body recomposition,5,Circuit training,"None, Kettlebells",Legs,43
+user_732,26,Other,168,62,Expert,Rehabilitation,5,Powerlifting,"Cable, Bodyweight",Upper body,41
+user_733,25,Other,190,92,Beginner,Improve strength,4,Circuit training,"Barbell, Cable",Hamstrings,25
+user_734,50,Other,153,96,Beginner,Improve strength,1,Functional training,Body Only,Legs,47
+user_735,36,Other,171,90,Beginner,Sports performance,5,Zumba,"Bodyweight, Dumbbell",Shoulders,82
+user_736,28,Male,177,99,Expert,Injury recovery,2,Bodyweight training,Home gym,Triceps,67
+user_737,35,Male,184,82,Beginner,Improve mobility,1,Powerlifting,"Full gym, Machine, Bodyweight",Chest,42
+user_738,29,Male,199,81,Beginner,Tone body,4,Cardio rowing,"Outdoor park, Kettlebells, Machine",Triceps,84
+user_739,19,Other,186,87,Beginner,Rehabilitation,1,Yoga,Full gym,Calves,87
+user_740,21,Female,194,69,Intermediate,Prepare for event,3,Circuit training,Machine,Calves,58
+user_741,58,Male,152,65,Beginner,Improve mobility,3,Strength training,Full gym,Forearms,64
+user_742,24,Female,195,66,Expert,Increase endurance,2,CrossFit,"Kettlebells, Body Only, Cable",Full body,63
+user_743,50,Other,168,99,Beginner,Injury recovery,4,Yoga,"None, Cable, Kettlebells",No specific focus,45
+user_744,24,Male,162,83,Intermediate,Rehabilitation,1,Martial arts,Bodyweight,Forearms,64
+user_745,32,Female,172,74,Beginner,Weight loss,5,Zumba,Body Only,Hamstrings,37
+user_746,33,Other,152,68,Intermediate,Wellness,3,Pilates,"Bodyweight, Bands",Calves,86
+user_747,46,Other,153,86,Beginner,Increase endurance,2,Cardio running,"Dumbbell, Bodyweight, Machine",Arms,73
+user_748,28,Male,191,86,Intermediate,Improve strength,5,Powerlifting,"Machine, None",Calves,34
+user_749,56,Male,185,84,Expert,Sports performance,3,Zumba,"Outdoor park, Home gym",Calves,25
+user_750,34,Other,175,92,Beginner,Build muscle,5,Olympic weightlifting,Barbell,Quads,86
+user_751,19,Female,157,94,Expert,Improve mobility,5,Olympic weightlifting,"Minimal equipment, Full gym",Biceps,22
+user_752,18,Male,152,92,Beginner,General health,3,Powerlifting,Machine,Core,71
+user_753,32,Other,153,76,Beginner,Improve flexibility,5,Bodyweight training,"Barbell, Minimal equipment",Upper body,61
+user_754,27,Female,151,76,Intermediate,Improve flexibility,3,Olympic weightlifting,Cable,Quads,21
+user_755,50,Female,153,81,Beginner,Increase endurance,2,Dance,Full gym,Biceps,52
+user_756,49,Male,193,88,Intermediate,Prepare for event,1,Zumba,"Minimal equipment, Bands, Home gym",Calves,29
+user_757,54,Male,191,70,Intermediate,Increase endurance,2,Functional training,"Home gym, Machine, Body Only",Lower body,63
+user_758,38,Male,196,50,Beginner,Prepare for event,4,CrossFit,Bodyweight,Glutes,88
+user_759,30,Female,180,51,Intermediate,Improve strength,3,Powerlifting,"Home gym, Bands, Full gym",Calves,58
+user_760,28,Male,187,79,Beginner,Improve mobility,1,HIIT High Intensity Interval Training,"Outdoor park, Bands, Bodyweight",Full body,42
+user_761,37,Male,177,52,Beginner,Wellness,2,Cardio running,Cable,Quads,44
+user_762,48,Male,184,68,Intermediate,Injury recovery,1,Pilates,"Home gym, Full gym, None",No specific focus,82
+user_763,42,Male,171,70,Expert,Rehabilitation,3,Circuit training,"Kettlebells, Body Only, Home gym",Full body,41
+user_764,35,Other,165,54,Expert,Wellness,4,HIIT High Intensity Interval Training,Machine,Calves,81
+user_765,34,Male,188,77,Expert,Improve strength,3,Powerlifting,"Dumbbell, None, Kettlebells",Triceps,40
+user_766,18,Male,197,62,Intermediate,Prepare for event,4,Bodyweight training,"Outdoor park, Minimal equipment, Bodyweight",Forearms,50
+user_767,59,Other,199,64,Beginner,General health,5,Martial arts,"Barbell, Cable, Full gym",Biceps,59
+user_768,48,Female,173,93,Beginner,General health,4,Cardio running,Body Only,Calves,78
+user_769,31,Male,164,76,Intermediate,Weight loss,3,Olympic weightlifting,"Minimal equipment, Full gym",Core,49
+user_770,18,Male,154,62,Beginner,Gain mass,3,Swimming,"Dumbbell, Kettlebells",Forearms,40
+user_771,28,Male,166,90,Expert,Gain mass,2,Functional training,"Minimal equipment, Cable",Full body,89
+user_772,25,Female,171,73,Intermediate,Sports performance,1,Calisthenics,"Bodyweight, None, Bands",Shoulders,53
+user_773,24,Other,199,76,Intermediate,Prepare for event,5,Olympic weightlifting,Body Only,Full body,22
+user_774,54,Other,153,55,Intermediate,Build muscle,4,Olympic weightlifting,Bodyweight,Legs,30
+user_775,59,Female,174,80,Intermediate,Improve mobility,5,Zumba,"Body Only, Home gym, Outdoor park",Quads,30
+user_776,35,Female,178,73,Expert,Prepare for event,5,Pilates,"Minimal equipment, None",Core,50
+user_777,55,Other,176,94,Intermediate,Improve cardio,5,Swimming,Home gym,Calves,61
+user_778,26,Male,166,60,Intermediate,Improve flexibility,2,Dance,"Home gym, Full gym, Bodyweight",Lower body,84
+user_779,48,Other,191,65,Beginner,Build muscle,2,Calisthenics,"Kettlebells, Home gym",Glutes,65
+user_780,24,Other,181,65,Beginner,Wellness,1,No preference,"Bodyweight, Outdoor park, None",Chest,42
+user_781,22,Other,177,50,Beginner,Lose fat,5,Bodyweight training,Bodyweight,Arms,39
+user_782,52,Other,195,51,Intermediate,Wellness,5,Bodyweight training,Home gym,Forearms,31
+user_783,36,Female,180,78,Intermediate,Increase endurance,1,Calisthenics,"None, Kettlebells, Bands",Back,78
+user_784,41,Other,174,73,Beginner,Wellness,4,Cardio rowing,"Outdoor park, Minimal equipment, None",Core,68
+user_785,40,Female,157,94,Beginner,Improve strength,4,Cardio running,Home gym,Glutes,80
+user_786,59,Other,173,51,Expert,General health,2,Martial arts,"Body Only, Minimal equipment, Barbell",Core,48
+user_787,19,Female,170,97,Intermediate,Improve mobility,3,Circuit training,Bands,Back,66
+user_788,41,Male,162,85,Expert,Prepare for event,4,Swimming,"Cable, Bands, Bodyweight",Chest,88
+user_789,53,Male,155,62,Expert,Build muscle,4,Dance,"Kettlebells, Dumbbell, Machine",Calves,82
+user_790,33,Female,161,89,Beginner,Sports performance,1,Cardio rowing,None,Legs,84
+user_791,19,Other,181,66,Intermediate,Sports performance,4,Functional training,"Machine, Bands",Chest,27
+user_792,31,Male,183,90,Expert,General health,2,Functional training,Full gym,Chest,31
+user_793,18,Female,175,93,Intermediate,Improve strength,5,Yoga,"Bodyweight, Dumbbell",Triceps,39
+user_794,26,Female,165,80,Intermediate,Body recomposition,2,Yoga,"Dumbbell, Body Only, Minimal equipment",Glutes,65
+user_795,28,Other,169,89,Intermediate,Improve flexibility,2,Bodyweight training,"Bodyweight, Barbell",Abs,60
+user_796,42,Female,166,81,Intermediate,Improve flexibility,1,Dance,Machine,Full body,67
+user_797,49,Male,152,86,Intermediate,Gain mass,3,Zumba,"Minimal equipment, Bodyweight, Barbell",Lower body,64
+user_798,56,Other,174,58,Expert,Body recomposition,3,Functional training,"Bands, Minimal equipment",Full body,48
+user_799,45,Male,156,71,Intermediate,Increase endurance,4,Olympic weightlifting,"Barbell, Machine",Forearms,32
+user_800,33,Female,181,80,Expert,Build muscle,4,Pilates,"Full gym, Machine, None",Lower body,20
+user_801,23,Female,183,72,Beginner,Improve mobility,2,Calisthenics,Minimal equipment,Triceps,36
+user_802,49,Female,156,52,Intermediate,Build muscle,3,Cardio running,"Bodyweight, Body Only",Forearms,62
+user_803,53,Female,183,54,Expert,Increase endurance,5,Powerlifting,"Machine, Bodyweight, Barbell",Hamstrings,74
+user_804,23,Male,154,83,Expert,Lose fat,5,Calisthenics,Barbell,Lower body,69
+user_805,37,Female,163,99,Expert,Improve flexibility,2,Bodyweight training,Cable,Back,27
+user_806,27,Male,181,62,Intermediate,Increase endurance,2,Pilates,"None, Home gym, Bands",Triceps,51
+user_807,59,Male,189,73,Beginner,Rehabilitation,3,Cardio cycling,"Full gym, Dumbbell",Chest,31
+user_808,57,Female,196,87,Expert,Tone body,2,Swimming,"Outdoor park, Dumbbell",Quads,68
+user_809,27,Female,179,64,Expert,Lose fat,3,Olympic weightlifting,Kettlebells,Quads,60
+user_810,21,Other,171,97,Intermediate,Tone body,2,Olympic weightlifting,Home gym,Core,76
+user_811,38,Female,152,72,Expert,Body recomposition,3,Pilates,Kettlebells,Glutes,82
+user_812,58,Female,165,83,Expert,Rehabilitation,2,Cardio rowing,"Bands, Machine",Chest,33
+user_813,18,Male,158,56,Expert,Improve strength,3,Yoga,"Kettlebells, Dumbbell",Hamstrings,33
+user_814,43,Female,195,85,Expert,Gain mass,1,HIIT High Intensity Interval Training,"Barbell, Bands",Arms,30
+user_815,32,Male,179,50,Beginner,Prepare for event,5,No preference,"Barbell, Kettlebells, Home gym",Glutes,83
+user_816,26,Other,157,63,Beginner,Wellness,1,Calisthenics,"Full gym, Outdoor park, Machine",Full body,56
+user_817,34,Female,176,79,Expert,General health,5,Olympic weightlifting,None,Triceps,61
+user_818,29,Male,160,99,Intermediate,Wellness,5,Swimming,"Dumbbell, None, Machine",Full body,53
+user_819,55,Male,186,83,Intermediate,Body recomposition,1,No preference,"Bands, Cable, Minimal equipment",Full body,39
+user_820,32,Other,157,76,Expert,Improve cardio,4,Calisthenics,"Bands, Cable",Arms,75
+user_821,39,Other,172,77,Expert,Improve strength,5,Circuit training,"Home gym, Bodyweight, None",Calves,88
+user_822,26,Female,184,68,Intermediate,Increase endurance,5,Cardio cycling,"Barbell, None, Dumbbell",Triceps,47
+user_823,22,Other,164,85,Beginner,Tone body,2,Cardio rowing,Minimal equipment,Core,31
+user_824,57,Female,151,75,Beginner,Sports performance,3,Strength training,"Home gym, None",Glutes,69
+user_825,26,Female,150,98,Beginner,Increase endurance,3,Strength training,"Bodyweight, Kettlebells",Chest,32
+user_826,54,Female,172,67,Beginner,Prepare for event,5,Calisthenics,"Home gym, Machine, Outdoor park",Forearms,89
+user_827,18,Other,197,64,Expert,Weight loss,1,HIIT High Intensity Interval Training,Cable,Triceps,78
+user_828,34,Other,150,56,Intermediate,Injury recovery,2,Swimming,"Bodyweight, Machine, Minimal equipment",Triceps,87
+user_829,41,Male,186,92,Beginner,Increase endurance,2,Powerlifting,"Home gym, Cable, Body Only",Upper body,45
+user_830,44,Other,196,66,Beginner,Improve strength,3,Dance,"Machine, Minimal equipment, Body Only",Chest,74
+user_831,44,Female,179,63,Expert,Gain mass,2,CrossFit,"Body Only, Minimal equipment, Bodyweight",Calves,25
+user_832,24,Male,152,74,Intermediate,Improve mobility,4,Swimming,"Minimal equipment, Outdoor park, Dumbbell",Triceps,67
+user_833,36,Male,197,74,Beginner,Prepare for event,1,Cardio running,"Bodyweight, Full gym",Arms,29
+user_834,49,Other,191,74,Beginner,Increase endurance,1,Functional training,"Bands, Kettlebells",Glutes,66
+user_835,22,Female,194,61,Beginner,Sports performance,2,Yoga,None,Chest,31
+user_836,32,Male,151,61,Intermediate,Improve flexibility,2,Circuit training,"Minimal equipment, Home gym",Full body,87
+user_837,22,Male,152,72,Expert,Improve strength,1,Zumba,"Full gym, Minimal equipment, Cable",Lower body,27
+user_838,43,Other,179,54,Beginner,Improve cardio,2,No preference,"Bodyweight, Cable, Kettlebells",Core,42
+user_839,29,Female,196,91,Beginner,General health,3,Dance,"Barbell, Machine, Home gym",No specific focus,39
+user_840,29,Male,181,94,Intermediate,Increase endurance,5,Functional training,"Dumbbell, Home gym, Kettlebells",Abs,50
+user_841,59,Other,172,56,Beginner,Improve mobility,3,Zumba,"Outdoor park, Cable",Shoulders,67
+user_842,28,Male,175,95,Intermediate,Weight loss,2,Powerlifting,"Full gym, Bodyweight",Back,73
+user_843,49,Other,169,71,Intermediate,Lose fat,4,Olympic weightlifting,"Bands, Minimal equipment, Kettlebells",Calves,83
+user_844,30,Female,173,97,Beginner,Improve strength,5,Powerlifting,"Cable, None",Abs,45
+user_845,40,Other,172,68,Intermediate,Lose fat,1,Olympic weightlifting,"None, Machine",Biceps,48
+user_846,23,Male,176,69,Expert,Improve flexibility,3,Circuit training,Dumbbell,Core,34
+user_847,40,Female,164,96,Intermediate,Body recomposition,5,Calisthenics,"Kettlebells, Minimal equipment",Chest,76
+user_848,24,Other,169,50,Expert,Improve flexibility,5,Calisthenics,"Cable, Kettlebells",Back,87
+user_849,23,Other,188,80,Intermediate,General health,3,Calisthenics,"Home gym, Cable, Bodyweight",Quads,27
+user_850,36,Male,191,53,Expert,Sports performance,1,Swimming,"Home gym, Outdoor park",Triceps,49
+user_851,24,Other,180,60,Beginner,Rehabilitation,4,Yoga,"Minimal equipment, Kettlebells",Biceps,67
+user_852,42,Female,190,72,Intermediate,Body recomposition,3,CrossFit,"Bands, Cable, Dumbbell",No specific focus,59
+user_853,52,Female,170,93,Intermediate,Increase endurance,2,Cardio rowing,"Cable, Minimal equipment, Home gym",Legs,30
+user_854,49,Female,185,54,Beginner,Build muscle,5,Cardio rowing,Bodyweight,Forearms,86
+user_855,51,Male,179,71,Expert,Injury recovery,5,Zumba,Body Only,No specific focus,63
+user_856,31,Other,185,60,Expert,Wellness,2,Powerlifting,"Minimal equipment, Full gym",Glutes,51
+user_857,57,Other,162,70,Expert,Improve cardio,5,Strength training,Machine,Abs,22
+user_858,37,Male,195,81,Expert,Gain mass,2,Circuit training,"Kettlebells, Barbell",Forearms,43
+user_859,18,Other,195,86,Expert,Increase endurance,1,Zumba,"Full gym, Cable",Lower body,29
+user_860,42,Female,157,97,Expert,Body recomposition,2,CrossFit,"Dumbbell, Outdoor park, Bands",Chest,36
+user_861,53,Male,193,90,Expert,Lose fat,2,Martial arts,Bodyweight,Back,50
+user_862,35,Other,185,96,Intermediate,Body recomposition,1,Powerlifting,"Bodyweight, Bands",Triceps,71
+user_863,56,Female,192,63,Intermediate,Prepare for event,1,Martial arts,"Bodyweight, Dumbbell, Barbell",Glutes,83
+user_864,57,Female,171,80,Beginner,Prepare for event,5,Dance,"Body Only, None",Triceps,47
+user_865,18,Other,171,56,Beginner,Tone body,2,Circuit training,"Outdoor park, Bands",Shoulders,32
+user_866,58,Other,181,63,Expert,Injury recovery,4,Swimming,"Kettlebells, Minimal equipment, Barbell",Calves,88
+user_867,36,Other,189,97,Beginner,Improve mobility,5,Yoga,"Outdoor park, Kettlebells, Bodyweight",Core,67
+user_868,36,Female,155,79,Beginner,Build muscle,5,Calisthenics,"Dumbbell, Bands, Full gym",Calves,62
+user_869,22,Other,185,54,Expert,General health,1,HIIT High Intensity Interval Training,"Machine, Bodyweight, Body Only",Arms,45
+user_870,47,Female,195,82,Intermediate,Tone body,3,CrossFit,"Dumbbell, Outdoor park",Biceps,77
+user_871,28,Female,158,90,Beginner,Rehabilitation,5,Dance,"Barbell, Full gym, Machine",Shoulders,36
+user_872,44,Male,174,86,Intermediate,Improve flexibility,5,Powerlifting,"Minimal equipment, Kettlebells, Outdoor park",Core,65
+user_873,56,Female,198,62,Intermediate,Improve flexibility,5,Dance,"Bodyweight, Body Only",Forearms,48
+user_874,47,Male,157,65,Beginner,General health,2,Zumba,"Full gym, Kettlebells, None",Shoulders,72
+user_875,31,Male,199,83,Intermediate,Wellness,5,Swimming,"Bands, Kettlebells",Back,26
+user_876,44,Other,198,71,Beginner,Improve strength,5,Strength training,"Bodyweight, Body Only",Calves,47
+user_877,26,Female,174,68,Intermediate,Injury recovery,5,Yoga,Full gym,Full body,86
+user_878,28,Male,182,76,Expert,Rehabilitation,1,Calisthenics,"Full gym, Barbell, Bodyweight",Chest,47
+user_879,27,Male,171,78,Intermediate,Increase endurance,5,Dance,"Full gym, Kettlebells",Forearms,58
+user_880,28,Other,172,65,Expert,General health,1,Calisthenics,Dumbbell,Quads,84
+user_881,30,Other,160,57,Beginner,Wellness,2,Pilates,"Bodyweight, Body Only",Calves,89
+user_882,56,Other,168,53,Intermediate,Rehabilitation,3,Martial arts,"Bodyweight, Full gym",Quads,45
+user_883,57,Other,169,77,Intermediate,Rehabilitation,5,Powerlifting,"Cable, None",Abs,81
+user_884,36,Male,161,57,Intermediate,Wellness,3,HIIT High Intensity Interval Training,"Cable, Minimal equipment, Home gym",Full body,84
+user_885,40,Female,184,72,Beginner,Sports performance,4,Cardio rowing,"Body Only, Bands, Machine",Full body,89
+user_886,32,Male,155,73,Intermediate,Wellness,1,No preference,"Barbell, Bodyweight",Forearms,84
+user_887,38,Male,178,67,Beginner,Sports performance,3,No preference,"Bodyweight, None, Barbell",Legs,37
+user_888,35,Other,193,51,Expert,Build muscle,1,Dance,None,Lower body,51
+user_889,25,Other,165,62,Beginner,Prepare for event,5,Olympic weightlifting,"Body Only, Dumbbell, Bands",Biceps,60
+user_890,42,Female,172,62,Intermediate,Improve flexibility,4,Cardio cycling,"Outdoor park, Machine, Kettlebells",Back,39
+user_891,28,Female,178,97,Beginner,Prepare for event,2,Powerlifting,"Machine, Outdoor park",Full body,22
+user_892,52,Female,173,87,Beginner,Rehabilitation,4,Swimming,"Bands, Body Only, Machine",Glutes,64
+user_893,48,Female,171,87,Intermediate,Body recomposition,2,Bodyweight training,"Dumbbell, None",Legs,65
+user_894,48,Female,152,94,Beginner,Improve cardio,2,Strength training,"Kettlebells, Full gym",Arms,33
+user_895,57,Other,162,76,Beginner,Improve flexibility,1,Cardio running,Machine,Shoulders,39
+user_896,20,Other,158,63,Beginner,Weight loss,4,Cardio rowing,"Machine, Dumbbell, Bands",Triceps,31
+user_897,35,Other,167,72,Expert,Injury recovery,1,Cardio cycling,"None, Minimal equipment",Full body,34
+user_898,57,Other,167,76,Beginner,Increase endurance,5,Dance,"Bands, Outdoor park",Chest,52
+user_899,46,Female,190,57,Beginner,Tone body,5,Cardio running,"Outdoor park, Minimal equipment",Arms,38
+user_900,43,Male,176,92,Beginner,Build muscle,1,Dance,"Full gym, Machine, Minimal equipment",Abs,21
+user_901,32,Other,184,90,Intermediate,Improve mobility,4,Cardio rowing,"Dumbbell, Full gym",Calves,75
+user_902,57,Other,175,53,Beginner,Sports performance,2,Yoga,"Outdoor park, None, Bodyweight",Abs,49
+user_903,53,Other,176,73,Intermediate,Rehabilitation,5,Pilates,"Dumbbell, Kettlebells",Calves,68
+user_904,30,Female,163,68,Beginner,Increase endurance,1,CrossFit,"Dumbbell, Bodyweight",Hamstrings,80
+user_905,24,Other,192,73,Beginner,Increase endurance,1,Yoga,"Home gym, Bands",Upper body,54
+user_906,46,Other,156,93,Intermediate,Wellness,3,Bodyweight training,"Barbell, Home gym",No specific focus,36
+user_907,36,Female,163,86,Beginner,Lose fat,4,Yoga,Dumbbell,Back,83
+user_908,31,Male,182,90,Intermediate,Rehabilitation,1,Martial arts,"Barbell, Body Only, Outdoor park",Quads,25
+user_909,59,Other,190,61,Expert,Body recomposition,5,Dance,"Full gym, Kettlebells",Glutes,22
+user_910,53,Female,185,56,Intermediate,Gain mass,5,Cardio rowing,"Outdoor park, Barbell, Dumbbell",Back,67
+user_911,39,Other,177,86,Expert,Wellness,2,No preference,"Barbell, Body Only",Calves,48
+user_912,25,Female,154,99,Intermediate,Prepare for event,3,Functional training,"Bands, Machine",Calves,77
+user_913,34,Female,150,96,Intermediate,Improve cardio,3,Circuit training,Full gym,Glutes,39
+user_914,49,Female,199,57,Beginner,Improve cardio,1,Olympic weightlifting,None,Abs,68
+user_915,42,Other,195,54,Intermediate,Injury recovery,2,Bodyweight training,"Machine, Body Only",Legs,28
+user_916,45,Male,158,64,Intermediate,Improve cardio,5,Pilates,"Kettlebells, Minimal equipment",Quads,68
+user_917,54,Male,169,58,Beginner,Improve flexibility,2,Cardio cycling,"Full gym, Outdoor park, Kettlebells",Back,31
+user_918,59,Female,181,66,Expert,Gain mass,5,HIIT High Intensity Interval Training,"Body Only, Home gym",Core,20
+user_919,35,Female,168,75,Intermediate,Body recomposition,3,CrossFit,Home gym,Triceps,44
+user_920,56,Female,174,53,Expert,Improve strength,5,HIIT High Intensity Interval Training,"Bands, Cable, Machine",Biceps,21
+user_921,37,Other,154,87,Intermediate,Sports performance,5,Strength training,"Kettlebells, Minimal equipment",Quads,65
+user_922,43,Other,160,82,Beginner,Rehabilitation,2,Zumba,"Dumbbell, Barbell",No specific focus,75
+user_923,29,Male,158,90,Expert,Build muscle,4,HIIT High Intensity Interval Training,"None, Minimal equipment, Kettlebells",Glutes,61
+user_924,29,Female,163,79,Expert,Improve cardio,4,Circuit training,"Machine, Barbell, Body Only",Biceps,80
+user_925,57,Other,190,77,Expert,Improve strength,5,HIIT High Intensity Interval Training,"Home gym, None, Outdoor park",Hamstrings,20
+user_926,57,Male,186,74,Expert,Improve strength,2,Cardio running,Bodyweight,Biceps,72
+user_927,37,Other,190,76,Expert,Injury recovery,4,Dance,"Dumbbell, None, Body Only",Upper body,27
+user_928,39,Other,156,87,Intermediate,Weight loss,4,Swimming,"Cable, Bodyweight, Kettlebells",Triceps,40
+user_929,32,Male,182,97,Intermediate,Prepare for event,5,Cardio running,Home gym,Shoulders,39
+user_930,47,Female,152,71,Beginner,Improve cardio,2,Calisthenics,"Dumbbell, Minimal equipment, Cable",Chest,65
+user_931,19,Other,155,62,Beginner,Gain mass,3,CrossFit,"Cable, Dumbbell, Barbell",Back,57
+user_932,40,Female,190,93,Expert,Build muscle,3,Circuit training,"Bodyweight, None, Barbell",No specific focus,73
+user_933,42,Male,160,65,Expert,Prepare for event,3,Cardio cycling,"Bands, Minimal equipment, Home gym",Calves,45
+user_934,20,Other,165,95,Beginner,Wellness,2,Calisthenics,"Body Only, Bodyweight, Minimal equipment",Forearms,55
+user_935,33,Female,154,73,Expert,General health,2,Circuit training,Kettlebells,Back,34
+user_936,36,Female,193,75,Intermediate,General health,4,CrossFit,Home gym,Calves,84
+user_937,40,Other,162,84,Beginner,Rehabilitation,5,Cardio rowing,"Bodyweight, Barbell, Kettlebells",Biceps,84
+user_938,48,Female,165,91,Expert,Weight loss,4,Zumba,"Home gym, None",Hamstrings,42
+user_939,56,Male,186,51,Expert,Sports performance,2,Bodyweight training,Machine,Abs,84
+user_940,51,Other,193,57,Intermediate,Improve flexibility,3,Yoga,"Machine, Home gym",No specific focus,68
+user_941,52,Other,151,92,Intermediate,Improve mobility,2,No preference,Minimal equipment,Forearms,48
+user_942,36,Female,183,77,Beginner,Improve cardio,1,Yoga,"Full gym, Machine, Barbell",Lower body,83
+user_943,32,Male,153,78,Expert,Improve strength,2,CrossFit,"Bands, None",No specific focus,35
+user_944,59,Male,181,88,Expert,Improve mobility,2,No preference,"Bodyweight, Outdoor park",Shoulders,54
+user_945,24,Female,192,67,Intermediate,Body recomposition,1,Zumba,"Full gym, None",Upper body,45
+user_946,46,Female,179,57,Expert,Lose fat,5,Martial arts,"Home gym, Bodyweight",Quads,76
+user_947,43,Male,169,68,Beginner,Lose fat,5,CrossFit,"Dumbbell, Home gym, Barbell",Full body,58
+user_948,46,Female,162,96,Beginner,Wellness,4,Cardio rowing,"Bodyweight, Dumbbell, Kettlebells",Back,57
+user_949,41,Male,189,96,Expert,Tone body,1,Yoga,"Home gym, Outdoor park, Bodyweight",Glutes,50
+user_950,41,Other,156,87,Beginner,Improve mobility,4,Martial arts,"Machine, Kettlebells",Hamstrings,57
+user_951,59,Female,154,63,Expert,Improve cardio,3,Dance,"Full gym, Bands",Glutes,27
+user_952,36,Male,193,80,Expert,Improve mobility,1,Yoga,"Kettlebells, Full gym, Bodyweight",Arms,66
+user_953,49,Male,193,89,Beginner,Build muscle,4,Martial arts,"Barbell, Machine",Hamstrings,71
+user_954,55,Male,174,65,Beginner,Build muscle,4,Martial arts,"Barbell, Minimal equipment",Legs,32
+user_955,45,Other,181,83,Intermediate,Weight loss,3,Cardio running,"Cable, Minimal equipment, Bodyweight",Chest,72
+user_956,42,Female,196,69,Expert,Improve mobility,5,Olympic weightlifting,"Body Only, Cable, None",Glutes,84
+user_957,45,Female,188,56,Beginner,Rehabilitation,2,Strength training,Bodyweight,Upper body,60
+user_958,18,Female,158,89,Intermediate,Rehabilitation,1,CrossFit,"Cable, Machine",Biceps,24
+user_959,43,Male,174,79,Intermediate,Build muscle,5,Pilates,"None, Barbell, Full gym",Triceps,56
+user_960,35,Other,179,67,Beginner,Improve flexibility,4,Yoga,"Dumbbell, Kettlebells, Body Only",Glutes,51
+user_961,18,Other,172,96,Intermediate,Injury recovery,5,Cardio cycling,"Machine, Full gym",Chest,26
+user_962,59,Male,154,97,Beginner,Tone body,3,Cardio rowing,"Kettlebells, Cable, Full gym",Abs,25
+user_963,59,Male,151,63,Expert,Gain mass,4,Olympic weightlifting,"Cable, None, Kettlebells",Hamstrings,30
+user_964,36,Other,190,85,Intermediate,Lose fat,3,Circuit training,"Minimal equipment, Bands",Upper body,32
+user_965,56,Male,190,51,Beginner,Lose fat,5,Cardio rowing,"Dumbbell, Machine, Home gym",Legs,66
+user_966,20,Male,172,84,Expert,Build muscle,2,HIIT High Intensity Interval Training,"Cable, Home gym",Glutes,42
+user_967,42,Other,169,50,Beginner,Weight loss,4,Zumba,Machine,Upper body,85
+user_968,44,Other,171,60,Expert,Improve flexibility,2,Swimming,Bands,Hamstrings,68
+user_969,35,Female,175,70,Expert,Build muscle,4,HIIT High Intensity Interval Training,"Kettlebells, Body Only",Lower body,87
+user_970,30,Female,161,94,Beginner,Injury recovery,5,Powerlifting,Cable,Legs,35
+user_971,56,Female,195,98,Expert,Rehabilitation,3,Bodyweight training,Outdoor park,Arms,36
+user_972,56,Other,151,50,Expert,Rehabilitation,3,Pilates,"Full gym, Machine, Bodyweight",Quads,39
+user_973,29,Male,191,58,Intermediate,Improve cardio,2,Cardio running,"Bands, Machine, Barbell",Upper body,61
+user_974,41,Female,160,72,Beginner,Improve cardio,3,Functional training,"Minimal equipment, Cable, Dumbbell",Biceps,26
+user_975,21,Male,197,85,Beginner,Improve flexibility,5,Zumba,"Cable, Body Only, Full gym",Full body,89
+user_976,50,Female,199,61,Expert,Improve mobility,2,Circuit training,"Outdoor park, None",Forearms,33
+user_977,22,Other,175,74,Expert,Rehabilitation,1,Functional training,Minimal equipment,Shoulders,28
+user_978,50,Male,193,91,Beginner,Improve strength,3,Cardio cycling,Barbell,Glutes,66
+user_979,55,Male,174,77,Beginner,Improve flexibility,3,Swimming,"Home gym, Cable",Legs,85
+user_980,37,Female,192,87,Beginner,Build muscle,1,Swimming,"Barbell, Dumbbell",Abs,32
+user_981,58,Other,162,56,Expert,Gain mass,5,Cardio running,"Dumbbell, None",Hamstrings,62
+user_982,41,Male,155,55,Beginner,Prepare for event,4,Pilates,Home gym,Lower body,21
+user_983,26,Female,169,52,Beginner,Improve cardio,3,CrossFit,"None, Outdoor park, Home gym",Upper body,56
+user_984,45,Other,188,86,Expert,Build muscle,4,Circuit training,Minimal equipment,Lower body,89
+user_985,34,Other,167,54,Expert,Gain mass,2,Martial arts,"Outdoor park, Cable",Legs,23
+user_986,21,Female,190,58,Expert,Improve strength,5,No preference,"Cable, Kettlebells",Calves,70
+user_987,42,Other,194,78,Expert,Rehabilitation,2,Cardio rowing,Home gym,Shoulders,36
+user_988,42,Other,179,50,Expert,Prepare for event,2,Cardio running,"None, Minimal equipment, Full gym",Glutes,82
+user_989,35,Other,178,56,Beginner,Injury recovery,1,Pilates,Home gym,Core,74
+user_990,29,Male,179,82,Beginner,Improve cardio,5,Dance,"Machine, Barbell, Body Only",Calves,57
+user_991,31,Female,163,72,Intermediate,Improve strength,4,Dance,"Bodyweight, Body Only",Forearms,36
+user_992,54,Other,184,59,Expert,Improve cardio,3,HIIT High Intensity Interval Training,"Cable, Machine",Calves,29
+user_993,20,Other,194,79,Expert,Weight loss,3,Olympic weightlifting,"Bands, Cable, Kettlebells",Quads,42
+user_994,41,Male,153,91,Intermediate,Prepare for event,1,Powerlifting,"Minimal equipment, Home gym",Triceps,60
+user_995,33,Male,157,61,Beginner,Lose fat,4,Circuit training,"Bands, Kettlebells",Hamstrings,66
+user_996,40,Male,188,60,Beginner,Sports performance,1,Yoga,Full gym,Chest,20
+user_997,51,Male,180,74,Beginner,Prepare for event,3,No preference,"Full gym, Dumbbell, Machine",Back,73
+user_998,44,Male,190,98,Expert,General health,1,Powerlifting,"Barbell, Outdoor park, Minimal equipment",Shoulders,34
+user_999,38,Other,177,66,Intermediate,Wellness,1,Yoga,"Cable, Kettlebells",Back,84
+user_1000,43,Female,198,75,Expert,Rehabilitation,2,CrossFit,Dumbbell,Chest,41
