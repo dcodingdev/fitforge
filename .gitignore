@@ -12,7 +12,7 @@ __pycache__/
 *.sqlite3
 
 # Machine Learning artifacts
-*.pkl
+# *.pkl
 *.db
 
 # Logs / temp files
